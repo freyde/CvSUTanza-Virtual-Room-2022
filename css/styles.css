@@ -247,6 +247,10 @@ a:hover {
   color: #ffe602;
 }
 
+.bse-navlink a:hover {
+  color: #0278ff;
+}
+
 #bsba a:hover {
   color: #e2cc03;
 }
@@ -3971,14 +3975,26 @@ textarea.form-control-lg {
   text-decoration: none;
   transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out;
 }
+
+
 @media (prefers-reduced-motion: reduce) {
   .nav-link {
     transition: none;
   }
 }
+
 .nav-link:hover, .nav-link:focus {
   color: #cca000;
 }
+
+#bse .nav-link:hover, .nav-link:focus {
+  color: #cca000;
+}
+
+#bsba .nav-link:hover, .nav-link:focus {
+  color: #0893f0;
+}
+
 .nav-link.disabled {
   color: #6c757d;
   pointer-events: none;
