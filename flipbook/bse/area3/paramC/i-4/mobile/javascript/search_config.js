@@ -1,0 +1,1 @@
+﻿var textForPages = ["I.4.            The College/ Academic Unit encourages                           and supports assessment for multiple                           intelligences.","","","","","",""];
