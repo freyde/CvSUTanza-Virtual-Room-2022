@@ -1,0 +1,1 @@
+﻿var textForPages = ["I.4.            The faculty distribute a copy of the                           syllabus to each students.","","","","","",""];
