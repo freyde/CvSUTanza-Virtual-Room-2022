@@ -1,0 +1,1 @@
+﻿var textForPages = ["S.4.            There is a system to ensure that all of                           the following are provided:                           S.4.1.   Traffic safety in and outside the                                         campus","","","","","Traffic and Safety Management","Provincial Ordinance Code to Road safety","","","","","","",""];
