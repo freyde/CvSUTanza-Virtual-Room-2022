@@ -1,0 +1,1 @@
+﻿var textForPages = ["S.4.            There is a system to ensure that all of                           the following are provided:                           S.4.2.   Waste management program;","The signage of NO Plastic and No Garbage allowed Policy","The Utility personnel maintains the cleanliness and orderliness of the campus.","","","","","","","","","","","",""];
