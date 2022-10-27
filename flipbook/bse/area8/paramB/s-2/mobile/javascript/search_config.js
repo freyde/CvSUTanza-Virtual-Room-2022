@@ -1,1 +1,1 @@
-﻿var textForPages = ["S.2.            The buildings are constructed                           according to their respective uses.","The buildings are constructed according to their respective uses."];
+﻿var textForPages = [];

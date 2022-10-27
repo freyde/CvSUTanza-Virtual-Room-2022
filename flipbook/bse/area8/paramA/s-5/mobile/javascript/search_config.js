@@ -1,1 +1,1 @@
-﻿var textForPages = ["S.5.            An area for outdoor educational                           activities, e.g., social, physical, athletic,                           cultural, military training, etc. exists.","The Bagtas Magkaisa Dome is used as a multipurpose hall for events, training and                                  programs, and other CvSU Tanza Campus Activities.","Pabahay Court and Bagtas Magkaisa Park was being                used for cultural, athletic and educational activities."];
+﻿var textForPages = [];

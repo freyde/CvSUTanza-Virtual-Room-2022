@@ -1,1 +1,1 @@
-﻿var textForPages = ["S.1.            The buildings meet all requirements of                           the building code. A Certificate of                           occupancy for each building is                          conspicuously displayed.","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""];
+﻿var textForPages = [];
