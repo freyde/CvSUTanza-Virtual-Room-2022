@@ -1,0 +1,1 @@
+﻿var textForPages = ["I.3.            The Board of Regents/ Trustees is                           concerned with the growth and                           development of the institution.","BOR Members","Extracted from CvSU Annual Report 2020","","","2020 BOR Resolutions","","","","",""];
