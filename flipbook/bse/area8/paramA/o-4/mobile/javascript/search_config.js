@@ -1,0 +1,1 @@
+﻿var textForPages = ["O.4.            The campus is well-planned, clean and                           properly landscaped.","The campus is well - planned and properly landscaped.","The Campus is properly lanscaped."];
