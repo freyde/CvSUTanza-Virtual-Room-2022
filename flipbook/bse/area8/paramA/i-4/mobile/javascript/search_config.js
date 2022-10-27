@@ -1,0 +1,1 @@
+﻿var textForPages = ["I.4.            Covered walks are provided to protect                           the academic community from                           inclement weather.","","The covered walks was constructed to protect              the academic community from inclement weather              and harm."];
