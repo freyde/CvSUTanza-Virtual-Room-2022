@@ -1,1 +1,1 @@
-﻿var textForPages = ["O.1.            The campus environment is conductive                           to all educational activities.","The Campus Multi- purpose Hall","The Bagtas Magkaisa Park and the Pabahay Court            are also  used for the different  activities of the Campus."];
+﻿var textForPages = [];

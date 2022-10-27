@@ -1,1 +1,1 @@
-﻿var textForPages = ["I.1.            The site infrastructure development                           plan is implemented as planned.","The infrastructure is well structured as planned.","The university building implemented as planned.","","","","","","","","","","","","","",""];
+﻿var textForPages = [];
