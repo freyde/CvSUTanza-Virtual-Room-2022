@@ -1,0 +1,1 @@
+﻿var textForPages = ["I.3.            The formulation/review/revision of the                           VMGO is participated in by the                           following:                          I.3.2.  faculty;","","","","","","","","","","","","","","","","","",""];
