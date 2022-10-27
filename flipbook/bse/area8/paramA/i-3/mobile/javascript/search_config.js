@@ -1,0 +1,1 @@
+﻿var textForPages = ["I.3.            The infrastructure development plan is                           implemented in accordance with                           approved zoning ordinances.","","","","","","","","","","","","","","","","","","","","","","","","","",""];
