@@ -1,0 +1,1 @@
+﻿var textForPages = ["0.1.  The  Extension  Program  is  well-                              planned,  implemented,  monitored,                              evaluated and disseminated.","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""];
