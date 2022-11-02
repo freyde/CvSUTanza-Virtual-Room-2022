@@ -1,0 +1,1 @@
+﻿var textForPages = ["S.1.            The institution has an approved and                           copyrighted Research Journal."];

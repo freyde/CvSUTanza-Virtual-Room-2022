@@ -1,0 +1,1 @@
+﻿var textForPages = ["S.2.            The institution has incentives for:                           S.2.4.  patented outputs."];
