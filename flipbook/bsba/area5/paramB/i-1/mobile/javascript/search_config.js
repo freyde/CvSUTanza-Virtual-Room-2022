@@ -1,0 +1,1 @@
+﻿var textForPages = ["IMPLEMENTATION","I.1.            The institution allocates adequate funds                           for the conduct of faculty and student                           research.","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""];
