@@ -1,0 +1,1 @@
+﻿var textForPages = ["S.3.            The campus is in a well-planned clean                           and properly landscaped environment.","A clean and properly landscape alongside the entrance/exit and administration                                                     building corridor.","A well-constructed landscape of pathways."];

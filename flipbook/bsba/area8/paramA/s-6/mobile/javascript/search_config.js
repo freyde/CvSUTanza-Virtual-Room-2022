@@ -1,0 +1,1 @@
+﻿var textForPages = ["S.6.            There is a campus security unit that                           ensures safety of the academic                           community.","A campus security force who ensures the safety for the Academic community by                                    enforcing standard safety and security protocol.","","","","","",""];
