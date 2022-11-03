@@ -1,0 +1,1 @@
+﻿var textForPages = ["I.1.         Recruitment and selection of faculty is                       processed by the faculty selection board                      using the following criteria:                          Mandatory                       I.1.5.  medical examination results;","","","","","","",""];
