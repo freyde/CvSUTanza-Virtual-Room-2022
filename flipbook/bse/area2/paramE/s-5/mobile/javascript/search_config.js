@@ -1,0 +1,1 @@
+﻿var textForPages = ["S.5.  The budget allocation for faculty                       development is adequate.","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""];
