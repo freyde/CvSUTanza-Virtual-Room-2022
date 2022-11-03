@@ -1,0 +1,1 @@
+﻿var textForPages = ["I.6.  The budget for faculty development is                       wisely utilized.","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""];

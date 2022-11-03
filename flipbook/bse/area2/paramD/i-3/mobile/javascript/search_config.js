@@ -1,0 +1,1 @@
+﻿var textForPages = ["I.3.  The faculty are officially informed of their                       rank and tenure after evaluation of the                      credential and performance.","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""];

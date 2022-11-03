@@ -1,0 +1,1 @@
+﻿var textForPages = ["I.4.  The faculty concerned are officially                       informed of the extension, renewal, or                      termination of their appointments.","","","","","","","","","","","","","","","","","","","","",""];
