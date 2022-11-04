@@ -1,0 +1,1 @@
+﻿var textForPages = ["I.1.         The following fringe benefits are granted:                       I.1.6.  clothing/uniform allowance;","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""];
