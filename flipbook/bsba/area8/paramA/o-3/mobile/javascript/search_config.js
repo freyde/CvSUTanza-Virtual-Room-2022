@@ -1,0 +1,1 @@
+﻿var textForPages = ["O.3.            The campus is safe and well-                           maintained."];

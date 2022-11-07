@@ -1,0 +1,1 @@
+﻿var textForPages = ["O.2.            The site can accommodate its present                           school population and future                           expansion."];

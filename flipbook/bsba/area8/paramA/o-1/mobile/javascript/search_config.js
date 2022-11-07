@@ -1,0 +1,1 @@
+﻿var textForPages = ["O.1.            The campus environment is conductive                           to all educational activities."];
