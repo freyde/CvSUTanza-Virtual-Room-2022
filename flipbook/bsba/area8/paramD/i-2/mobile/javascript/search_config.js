@@ -1,0 +1,1 @@
+﻿var textForPages = ["I.2.            All offices are well-maintained.","The offices are well-maintained and ensured to support                                              operations.","","The administrative office is with necessary furnished.                           The lounge can accomodate visitors."];

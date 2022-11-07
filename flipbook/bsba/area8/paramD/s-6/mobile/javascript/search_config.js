@@ -1,0 +1,1 @@
+﻿var textForPages = ["S.6.            Storerooms are strategically located.","Office Supplies and Storage Room"];

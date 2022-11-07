@@ -1,0 +1,1 @@
+﻿var textForPages = ["S.4.            Administration and faculty officers and                           staff rooms are clean, well-lighted and                           ventilated.","The administration and faculty officers and staff                       rooms are clean, well-lighted and ventilated.","Faculty rooms and offices are well-lighted and ventilated."];
