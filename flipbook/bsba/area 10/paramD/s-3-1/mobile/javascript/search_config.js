@@ -1,0 +1,1 @@
+﻿var textForPages = ["S.3.            The institution has specific budgetary                           allotment for the following:                           S.3.1.  personal services;","","","","","","","","","","","","","","","","","",""];
