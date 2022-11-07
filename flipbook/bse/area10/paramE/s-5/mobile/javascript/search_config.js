@@ -1,1 +1,0 @@
-﻿var textForPages = ["S.5.            There are storage facilities for athletic                           sports and other curricular training                           equipment.","There is storage for sports and other related               curricular equipment locatednear the campus              gymnasium for easy access to the said equipment.",""];
