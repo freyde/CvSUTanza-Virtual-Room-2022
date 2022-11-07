@@ -1,0 +1,1 @@
+﻿var textForPages = ["S.7.            There is internal and external                           communication system.","An internal and external communication system","","",""];
