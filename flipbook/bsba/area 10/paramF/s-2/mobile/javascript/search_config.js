@@ -1,0 +1,1 @@
+﻿var textForPages = ["S.2.            The institution has policies and                            procedures to ensure the security                           and confidentiality of records.","QUALITY PROCEDURES OF THE RMO","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""];

@@ -1,0 +1,1 @@
+﻿var textForPages = ["O.1.            The institution has a sound and                           effective financial management system.","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""];
