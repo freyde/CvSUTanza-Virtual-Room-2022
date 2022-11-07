@@ -1,0 +1,1 @@
+﻿var textForPages = ["I.2.            The constructed outdoor facilities are:                           I.2.5.  installed with drainage system.","The drainage system installed at the left wing of the                                              covered court."];

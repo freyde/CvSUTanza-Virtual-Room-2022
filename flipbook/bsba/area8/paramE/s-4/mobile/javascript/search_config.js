@@ -1,0 +1,1 @@
+﻿var textForPages = ["S.4.            There are adequate and well-marked                           entry and exit points.","Bagtas Magkaisa Park has a satisfactory entrance                 and exit points for educational and extracurricular                                               activities."];

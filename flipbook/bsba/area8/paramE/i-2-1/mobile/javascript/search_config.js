@@ -1,0 +1,1 @@
+﻿var textForPages = ["I.2.            The constructed outdoor facilities are:                           I.2.1.  free from hazards;","The court of the campus is free from hazards that may                                harm in the community."];

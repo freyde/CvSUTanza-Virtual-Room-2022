@@ -1,0 +1,1 @@
+﻿var textForPages = ["I.1.            Indoor facilities are constructed with:                           I.1.4.  toilets;","There are also readily available toilets for students                                         after the indoor activities."];

@@ -1,0 +1,1 @@
+﻿var textForPages = ["S.3.            The seating capacity conforms to                           standards.","","The campus has standard bleachers and can                              accomodate viewers of activity."];
