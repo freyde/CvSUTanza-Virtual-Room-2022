@@ -1,0 +1,1 @@
+﻿var textForPages = ["S.3.            The classrooms are adequate and are                           provided with enough chairs, furniture                           and equipment.","The classrooms has enough chairs for the numbers of the students ."];

@@ -1,0 +1,1 @@
+﻿var textForPages = ["I.2.            The classrooms are well-maintained                           and free from interference.","The classrooms are well - maintained and free from                            any interferences."];
