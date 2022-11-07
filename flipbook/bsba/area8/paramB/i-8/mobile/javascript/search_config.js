@@ -1,0 +1,1 @@
+﻿var textForPages = ["I.8.            Smoking is strictly prohibited inside the                           campus.","The signage for \"No Smoking\" is displayed in the                                            gate entrance.","The signage for \"No Smoking\" is also displayed in every            corner of the pathways and sidewalks."];

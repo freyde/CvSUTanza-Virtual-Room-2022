@@ -1,0 +1,1 @@
+﻿var textForPages = ["S.9.            The buildings have facilities for persons                           with disability (PWDs) as provided by                           law.","The Buildings has facilities for PWD's as provided                                                  by the law."];

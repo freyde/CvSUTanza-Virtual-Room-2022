@@ -1,0 +1,1 @@
+﻿var textForPages = ["I.1.            The buildings are clean, well-                           maintained and free from vandalistic                           acts.","","The building is clean and well maintained and free                                       from vandalistic act.","","","","","","","",""];

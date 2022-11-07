@@ -1,0 +1,1 @@
+﻿var textForPages = ["S.6.            The buildings are equipped with                           emergency/fire escapes which are                           readily accessible.","There is an emergency escape for emergency                                               purposes.","Evacuation Plan"];
