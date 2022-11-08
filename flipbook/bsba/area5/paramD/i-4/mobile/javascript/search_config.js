@@ -1,0 +1,1 @@
+﻿var textForPages = ["I.4.            Research manuscripts/technical                           reports are well-written, and edited                           following the institutional format.","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""];

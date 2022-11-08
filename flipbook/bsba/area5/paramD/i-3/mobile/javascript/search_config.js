@@ -1,0 +1,1 @@
+﻿var textForPages = ["I.3.            Library exchange of research                           publications with other HEI’s and                           agencies is maintained.","","","","","","","","","","","","","","","","","","","",""];

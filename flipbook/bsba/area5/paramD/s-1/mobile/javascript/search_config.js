@@ -1,1 +1,1 @@
-﻿var textForPages = ["S.1.            The institution has an approved and                           copyrighted Research Journal."];
+﻿var textForPages = ["AREA V                                             RESEARCH","PARAMETER A                              PRIORITIES AND                                    RELEVANCE","SYSTEM - INPUTS                                AND PROCESS","S.1.            The institution has an approved and                           copyrighted Research Journal.","","","","","","","","",""];
