@@ -1,0 +1,1 @@
+﻿var textForPages = ["I.8.            The College/Academic Unit generates                           income from patents, licenses,                           copyrights, and other research outputs.","","","","","","",""];
