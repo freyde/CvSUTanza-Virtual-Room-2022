@@ -1,1 +1,1 @@
-﻿var textForPages = ["O.2.            The site can accommodate its present                           school population and future                           expansion."];
+﻿var textForPages = ["O.2.            The site can accommodate its present                           school population and future                           expansion.","The classrooms and campus student lounge constructed                      to accomodate the academic community.","SUMMARY OF ENROLLMENT FOR A.Y 2022- 2023"];
