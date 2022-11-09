@@ -1,1 +1,1 @@
-﻿var textForPages = ["I.1.            Indoor facilities are constructed with:                           I.1.6.   enough chairs.","There are also available chairs for Physical Fitness                                     Classes and Lectures.","The Bagtas Magkaisa Dome is used as a multipurpose hall for events, training and                                  programs, and other CvSU Tanza Campus Activities."];
+﻿var textForPages = [];

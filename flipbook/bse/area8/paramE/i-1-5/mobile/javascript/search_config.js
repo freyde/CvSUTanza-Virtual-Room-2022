@@ -1,1 +1,1 @@
-﻿var textForPages = ["I.1.            Indoor facilities are constructed with:                           I.1.5.   functional drinking facilities;","There is a water dispenser for the students which            they can use after the activities and Physical Fitness                                                  Classes."];
+﻿var textForPages = [];
