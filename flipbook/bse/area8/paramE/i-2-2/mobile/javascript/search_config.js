@@ -1,1 +1,1 @@
-﻿var textForPages = ["I.2.            The constructed outdoor facilities are:                           I.2.2.   suitably surfaced floor;","The court has a suitably surface floor for better playing                                                    experience."];
+﻿var textForPages = [];
