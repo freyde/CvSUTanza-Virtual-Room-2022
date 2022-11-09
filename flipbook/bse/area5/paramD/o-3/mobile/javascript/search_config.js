@@ -1,0 +1,1 @@
+﻿var textForPages = ["O.3.            Patented and copyrighted research                           outputs are commercialized.","","","","","",""];
