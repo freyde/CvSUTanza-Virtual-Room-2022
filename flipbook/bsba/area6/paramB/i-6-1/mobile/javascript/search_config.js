@@ -1,1 +1,0 @@
-﻿var textForPages = ["I.6.            The extension activities are                          connected and documented                           in the form of:                           I.6.1.         pamphlets;","","","","","","","","","","","","","","","","","","","","","","","","","","","",""];
