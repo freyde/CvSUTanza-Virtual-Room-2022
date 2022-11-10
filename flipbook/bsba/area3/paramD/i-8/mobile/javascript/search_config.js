@@ -1,0 +1,1 @@
+﻿var textForPages = ["I.8.            In practicum courses, the number of                           trainees supervised by each                           coordinator does not exceed 50.","",""];
