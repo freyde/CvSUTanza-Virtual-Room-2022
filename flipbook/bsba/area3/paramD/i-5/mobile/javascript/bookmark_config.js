@@ -1,1 +1,0 @@
-﻿var ols=[{caption:"I_5",page:"1",url:"",level:"1",children:[]},{caption:"I.5",page:"2",url:"",level:"1",children:[]},{caption:"BM_MKTG50_Consumer Behavior",page:"32",url:"",level:"1",children:[]},{caption:"BM_MKTG55_Market-Research",page:"60",url:"",level:"1",children:[]}];

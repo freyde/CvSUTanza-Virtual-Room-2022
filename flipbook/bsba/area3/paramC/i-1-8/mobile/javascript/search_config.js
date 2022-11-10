@@ -1,0 +1,1 @@
+﻿var textForPages = ["I.1.            Varied evaluation measures are used,                           such as:                           I.1.8.  others (please specify)                                         _________________________."];
