@@ -1,1 +1,0 @@
-﻿var textForPages = ["I.7.            The following activities are undertaken                           to insure quality in the process of                           curriculum development:                          I.7.4.  others (please specify)                                          _______________."];
