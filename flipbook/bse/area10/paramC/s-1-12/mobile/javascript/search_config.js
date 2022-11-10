@@ -1,1 +1,0 @@
-﻿var textForPages = ["S.1.            The institution has an approved printed                           Student Handbook/Manual containing                           policies and guidelines on the following                          aspects of student life:                           S.1.12.   others (please specify)                                          __________________."];

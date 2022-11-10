@@ -1,1 +1,0 @@
-﻿var textForPages = ["S.3.            The institution has specific budgetary                           allotment for the following:                          S.3.3.   Capital outlay; and","","","","","","","",""];
