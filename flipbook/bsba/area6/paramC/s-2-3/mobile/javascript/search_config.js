@@ -1,0 +1,1 @@
+﻿var textForPages = ["S.2.           There is a provision of:                              S.2.3.  supplies and materials; and","","","","","",""];
