@@ -1,1 +1,0 @@
-﻿var textForPages = ["I.6.            The system of student evaluation and                           grading is defined, understood and                           disseminated to:                          I.6.4.  parents/guardians.","","","","","","","",""];

@@ -1,1 +1,0 @@
-﻿var textForPages = ["I.1.            Varied evaluation measures are used,                           such as:                           I.1.2.  rubric assessment;","","","","","","","","","","","","","",""];
