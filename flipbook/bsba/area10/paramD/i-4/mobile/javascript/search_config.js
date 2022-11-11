@@ -1,0 +1,1 @@
+﻿var textForPages = ["I.4.            The budget of the institution is fairly                           and objectively allocated.","","","","","","","","","","","","","","","","","","","","","","","","","","","",""];
