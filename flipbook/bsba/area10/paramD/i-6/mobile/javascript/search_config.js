@@ -1,0 +1,1 @@
+﻿var textForPages = ["I.6.            The budget allotted for specific                           expenditures indicated in item I.5                           follows existing policies and guidelines.","","","","","","","","","","","","","","","","","","","","","","","","","","",""];

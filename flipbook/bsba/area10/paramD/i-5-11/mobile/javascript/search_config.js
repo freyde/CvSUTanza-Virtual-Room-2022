@@ -1,0 +1,1 @@
+﻿var textForPages = ["I.5.            The institution allocates funds for the                           following services and activities:                           I.5.11.  construction of new facilities, as                                         needed;","","","","","","",""];
