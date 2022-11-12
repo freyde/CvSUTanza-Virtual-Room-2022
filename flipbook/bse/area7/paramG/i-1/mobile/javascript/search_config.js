@@ -1,0 +1,1 @@
+﻿var textForPages = ["I.1. Linkages with other institutions                   and funding agencies are explored and                   established for purposes of enhancing                   library facilities and resources.","LIST OF EXCHANGE                                                PARTNERS","","",""];

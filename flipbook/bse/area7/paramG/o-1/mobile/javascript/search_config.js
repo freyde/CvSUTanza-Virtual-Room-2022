@@ -1,0 +1,1 @@
+﻿var textForPages = ["O.1. Library resource sharing and                   linkages are well-established.","LIST OF EXCHANGE                                               PARTNERS","c","",""];
