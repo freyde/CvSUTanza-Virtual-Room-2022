@@ -1,0 +1,1 @@
+﻿var textForPages = ["S.2. There is a core collection of at         least:              S.2.1. 5,000 titles for Academic Unit           Library; or","LIBRARY CORE                                           COLLECTION","","",""];

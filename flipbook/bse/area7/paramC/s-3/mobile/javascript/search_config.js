@@ -1,0 +1,1 @@
+﻿var textForPages = ["S.3. Twenty percent (20%) of the         library           holdings are of current edition, i.e.          with          copyright within the last five years.","SUMMARY OF                    UNIVERSITY LIBRARY                          CORE COLLECTION","","PRINTED COLLECTIONS 2021"];

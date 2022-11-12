@@ -1,0 +1,1 @@
+﻿var textForPages = ["S.1.            There is a written                           Collection Development                          Policy.","COLLECTION                         DEVELOPMENT POLICY                               LIFTED FROM CVSU                           LIBRARY MANUAL OF                                         OPERATIONS","","","","","","","","","","","","","",""];

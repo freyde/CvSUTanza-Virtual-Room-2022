@@ -1,0 +1,1 @@
+﻿var textForPages = ["I.8. The quality and quantity of library                   materials and resources conform with                   the standards sets for a particular                   academic program.","CHED MEMO                                          CMO No.22 S.2021","","","","","","","","","","COPC CERTIFICATION",""];

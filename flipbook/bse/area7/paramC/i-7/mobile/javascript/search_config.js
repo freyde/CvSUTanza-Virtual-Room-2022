@@ -1,0 +1,1 @@
+﻿var textForPages = ["I.7. Regular weeding-out program is                  conducted to maintain a relevant and                   updated collection.","APPROVED POLICIES                        FOR WEEDING LIBRARY                                          COLLECTION","","","","","","","",""];
