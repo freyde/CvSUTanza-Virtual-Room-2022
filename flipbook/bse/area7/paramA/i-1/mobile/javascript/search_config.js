@@ -1,0 +1,1 @@
+﻿var textForPages = ["Administration              I.1.           The library develops an explicit                            statement of its goals and objectives in                             conformity with the mandate of the                            institution.","","","","","","",""];
