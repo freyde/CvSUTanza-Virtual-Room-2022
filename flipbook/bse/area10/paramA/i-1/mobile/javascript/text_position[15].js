@@ -1,1 +1,1 @@
-﻿positionForPages[15]={page:15,positions:[]};
+﻿positionForPages[15]={page:15,positions:[{w:"",p:[0.867925,0.915707,0.878827,0.915707,0.878827,0.881919,0.867925,0.881919,0.010902]}]};

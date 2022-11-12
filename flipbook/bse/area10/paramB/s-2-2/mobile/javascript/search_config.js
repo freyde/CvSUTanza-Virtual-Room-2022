@@ -1,1 +1,1 @@
-﻿var textForPages = [];
+﻿var textForPages = ["S.2.            The Department Chair/s, or their                           equivalent, have appropriate/relevant                           educational qualification and                          experience.                           S.2.2.   a holder of valid certificate of                                          registration and professional                                         teacher's license.","","O-265                                              ED                                              02-09-2022",""];

@@ -1,1 +1,1 @@
-﻿var textForPages = [];
+﻿var textForPages = ["S.1.            The Dean/ Academic Unit Head                           possesses the required educational                           qualification, experience and other                          prescribed requirements to administer                           the Academic Unit/ College, as follows:                           S.1.2.   Certificate of Registration/                                         Professional License (LET); and","","","",""];
