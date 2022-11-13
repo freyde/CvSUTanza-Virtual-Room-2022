@@ -1,0 +1,1 @@
+﻿var textForPages = ["I.5.            All approved requests for procurement                           are published in the Philippine                           Government Electronic Procurement                          System (PhiIGEPS).","","","","","","","","","","","","","","",""];
