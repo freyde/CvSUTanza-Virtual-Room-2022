@@ -1,1 +1,1 @@
-﻿var textForPages = ["I.1.         Recruitment and selection of faculty is                       processed by the faculty selection board                      using the following criteria:                          Optional                       I.1.8.  previous record of employment (if                                   any);","","","","","","",""];
+﻿var textForPages = [];

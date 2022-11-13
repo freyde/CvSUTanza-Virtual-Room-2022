@@ -1,1 +1,1 @@
-﻿var textForPages = ["S.2.  Other qualifications such as the following                       are considered:                      S.2.1. related professional experience;","","","","","","","","","","","","","","","",""];
+﻿var textForPages = [];

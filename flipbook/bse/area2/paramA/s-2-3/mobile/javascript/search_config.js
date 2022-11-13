@@ -1,1 +1,1 @@
-﻿var textForPages = ["S.2.  Other qualifications such as the following                       are considered:                      S.2.3. specialization;","","","","","","","","","","","","","","","","","","","","","","","",""];
+﻿var textForPages = [];
