@@ -1,1 +1,1 @@
-﻿var textForPages = ["I.2.  The hiring system adopts an open                       competitive selection, based on the CSC-                      approved merit system and promotion                       plan of the institution published and well-                       disseminated through various media                       outlets:                       I.2.4.  bulletin boards; and","",""];
+﻿var textForPages = [];
