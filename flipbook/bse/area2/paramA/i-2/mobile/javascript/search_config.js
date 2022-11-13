@@ -1,1 +1,1 @@
-﻿var textForPages = ["I.2.  Faculty earn graduate degrees in                       Education and/or allied fields from                      reputable institutions (with at least level II                       accreditation status or world/Asian rank).","","","","","","","","","","","","","","","","",""];
+﻿var textForPages = [];
