@@ -1,1 +1,1 @@
-﻿var textForPages = ["I.5.            The institution allocates funds for the                           following services and activities:                          I.5.13.   extension and community service;","","","","","","","","","","","","","","","","",""];
+﻿var textForPages = ["I.5.            The institution allocates funds for the                           following services and activities:                          I.5.13.   extension and community service;","","","","","","","","","","","","","","","",""];
