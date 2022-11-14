@@ -1,1 +1,1 @@
-﻿var textForPages = [];
+﻿var textForPages = ["S.9.            The Guidance Program is supported by                           qualified staff.","Qualification Standards                                           based on CMO","","","","Curriculum Vitae","","","Recommendation and Appointment","","O-265                                              ED                                              02-09-2022"];

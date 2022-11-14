@@ -1,1 +1,1 @@
-﻿var textForPages = [];
+﻿var textForPages = ["S.2.            The institution provides adequate office                           space and other forms of support to                           accredited student organizations.","Photo documentation of                 Central Student Government’s                                               (CSG) office","The office of the Central Student Government is located in the OSAS Office","Building Map",""];

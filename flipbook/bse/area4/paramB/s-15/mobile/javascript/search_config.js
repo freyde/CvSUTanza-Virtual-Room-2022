@@ -1,0 +1,1 @@
+﻿var textForPages = ["S.15.           There is a mechanism for storing and                           achieving student records for reference                           purposes.","","Approved Policies and Guidelines on                        Archiving Students’ Records","","","","","","","","","","","","","","","","","",""];

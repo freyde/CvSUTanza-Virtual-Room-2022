@@ -1,1 +1,0 @@
-﻿var textForPages = ["S.12.           There is sufficient budget allocation for                           the Student Affairs and Service of the                           institution.","","","","","","","","","","","","","","","","","","","",""];

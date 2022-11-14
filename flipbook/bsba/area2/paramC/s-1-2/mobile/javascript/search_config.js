@@ -1,0 +1,1 @@
+﻿var textForPages = ["S.1.            Faculty-student ratio is in accordance                           with the program requirements and                           standards as follows                          S.1.2.  laboratory (1:25), maximum of                                          1:30; and","Not Applicable"];

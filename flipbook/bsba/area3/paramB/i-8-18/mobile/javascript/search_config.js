@@ -1,0 +1,1 @@
+﻿var textForPages = ["I.8.            Instruction is enriched through, at least                           10 of the following strategies:                           I.8.18.  experiments;","Students developed various products                                         through experiments","","","",""];

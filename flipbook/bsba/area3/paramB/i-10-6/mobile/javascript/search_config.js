@@ -1,0 +1,1 @@
+﻿var textForPages = ["I.10.           Instruction is enhanced through the                           following:                           I.10.6.  conduct of experimental classes;                                         and"];
