@@ -1,1 +1,1 @@
-﻿var ols=[{caption:"S_1_3",page:"1",url:"",level:"1",children:[]},{caption:"S.1.3",page:"2",url:"",level:"1",children:[]},{caption:"BM_MKTG50_Consumer Behavior",page:"38",url:"",level:"1",children:[]}];
+﻿var ols=[{caption:"S_1_3",page:"1",url:"",level:"1",children:[]},{caption:"BM_MKTG50_Consumer Behavior",page:"37",url:"",level:"1",children:[]}];
