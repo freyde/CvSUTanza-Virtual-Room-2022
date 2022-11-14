@@ -1,1 +1,1 @@
-﻿var textForPages = [];
+﻿var textForPages = ["I.2.            The following stakeholders participate                           in the formulation of research agenda                           as bases for identifying institutional                          thrusts and priorities:                           I.2.1.  administrators;","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""];
