@@ -1,0 +1,1 @@
+﻿var textForPages = ["I.12.           Facilities for keeping health care and                           updated health records of students are                           adequate and well-maintained.","Medical Records of  Students","Medical Records of BSE students",""];
