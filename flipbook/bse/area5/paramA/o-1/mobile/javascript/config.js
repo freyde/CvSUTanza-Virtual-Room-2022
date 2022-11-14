@@ -1,0 +1,180 @@
+﻿	var aliasConfig = {
+appName : ["", "", ""],
+totalPageCount : [],
+largePageWidth : [],
+largePageHeight : [],
+normalPath : [],
+largePath : [],
+thumbPath : [],
+
+ToolBarsSettings:[],
+TitleBar:[],
+appLogoIcon:["appLogoIcon"],
+appLogoLinkURL:["appLogoLinkURL"],
+bookTitle : [],
+bookDescription : [],
+ButtonsBar : [],
+ShareButton : [],
+ShareButtonVisible : ["socialShareButtonVisible"],
+ThumbnailsButton : [],
+ThumbnailsButtonVisible : ["enableThumbnail"],
+ZoomButton : [],
+ZoomButtonVisible : ["enableZoomIn"],
+FlashDisplaySettings : [],
+MainBgConfig : [],
+bgBeginColor : ["bgBeginColor"],
+bgEndColor : ["bgEndColor"],
+bgMRotation : ["bgMRotation"],
+backGroundImgURL : ["mainbgImgUrl","innerMainbgImgUrl"],
+pageBackgroundColor : ["pageBackgroundColor"],
+flipshortcutbutton : [],
+BookMargins : [],
+topMargin : [],
+bottomMargin : [],
+leftMargin : [],
+rightMargin : [],
+HTMLControlSettings : [],
+linkconfig : [],
+LinkDownColor : ["linkOverColor"],
+LinkAlpha : ["linkOverColorAlpha"],
+OpenWindow : ["linkOpenedWindow"],
+searchColor : [],
+searchAlpha : [],
+SearchButtonVisible : ["searchButtonVisible"],
+
+productName : [],
+homePage : [],
+enableAutoPlay : ["autoPlayAutoStart"],
+autoPlayDuration : ["autoPlayDuration"],
+autoPlayLoopCount : ["autoPlayLoopCount"],
+BookMarkButtonVisible : [],
+googleAnalyticsID : ["googleAnalyticsID"],
+OriginPageIndex : [],	
+HardPageEnable : ["isHardCover"],	
+UIBaseURL : [],	
+RightToLeft: ["isRightToLeft"],	
+
+LeftShadowWidth : ["leftPageShadowWidth"],	
+LeftShadowAlpha : ["pageShadowAlpha"],
+RightShadowWidth : ["rightPageShadowWidth"],
+RightShadowAlpha : ["pageShadowAlpha"],
+ShortcutButtonHeight : [],	
+ShortcutButtonWidth : [],
+AutoPlayButtonVisible : ["enableAutoPlay"],	
+DownloadButtonVisible : ["enableDownload"],	
+DownloadURL : ["downloadURL"],
+HomeButtonVisible :["homeButtonVisible"],
+HomeURL:['btnHomeURL'],
+BackgroundSoundURL:['bacgroundSoundURL'],
+//TableOfContentButtonVisible:["BookMarkButtonVisible"],
+PrintButtonVisible:["enablePrint"],
+toolbarColor:["mainColor","barColor"],
+loadingBackground:["mainColor","barColor"],
+BackgroundSoundButtonVisible:["enableFlipSound"],
+FlipSound:["enableFlipSound"],
+MiniStyle:["userSmallMode"],
+retainBookCenter:["moveFlipBookToCenter"],
+totalPagesCaption:["totalPageNumberCaptionStr"],
+pageNumberCaption:["pageIndexCaptionStrs"]
+};
+var aliasLanguage={
+frmPrintbtn:["frmPrintCaption"],
+frmPrintall : ["frmPrintPrintAll"],
+frmPrintcurrent : ["frmPrintPrintCurrentPage"],
+frmPrintRange : ["frmPrintPrintRange"],
+frmPrintexample : ["frmPrintExampleCaption"],
+btnLanguage:["btnSwicthLanguage"],
+btnTableOfContent:["btnBookMark"]
+}
+;
+	var bookConfig = {
+	appName:'flippdf',
+	totalPageCount : 0,
+	largePageWidth : 1080,
+	largePageHeight : 1440,
+	normalPath : "files/page/",
+	largePath : "files/large/",
+	thumbPath : "files/thumb/",
+	
+	ToolBarsSettings:"",
+	TitleBar:"",
+	appLogoLinkURL:"",
+	bookTitle:"FLIPBUILDER",
+	bookDescription:"",
+	ButtonsBar:"",
+	ShareButton:"",
+	
+	ThumbnailsButton:"",
+	ThumbnailsButtonVisible:"Show",
+	ZoomButton:"",
+	ZoomButtonVisible:"Yes",
+	FlashDisplaySettings:"",
+	MainBgConfig:"",
+	bgBeginColor:"#cccccc",
+	bgEndColor:"#eeeeee",
+	bgMRotation:45,
+	pageBackgroundColor:"#FFFFFF",
+	flipshortcutbutton:"Show",
+	BookMargins:"",
+	topMargin:10,
+	bottomMargin:10,
+	leftMargin:10,
+	rightMargin:10,
+	HTMLControlSettings:"",
+	linkconfig:"",
+	LinkDownColor:"#808080",
+	LinkAlpha:0.5,
+	OpenWindow:"_Blank",
+
+	BookMarkButtonVisible:'true',
+	productName : 'Demo created by Flip PDF',
+	homePage : 'http://www.flipbuilder.com/',
+	isFlipPdf : "true",
+	TableOfContentButtonVisible:"true",
+	searchTextJS:'javascript/search_config.js',
+	searchPositionJS:undefined
+};
+	
+	
+	;bookConfig.BookTemplateName="metro";bookConfig.loadingCaptionColor="#DDDDDD";bookConfig.loadingBackground="#323232";bookConfig.appLogoIcon="../files/mobile-ext/appLogoIcon.png";bookConfig.appLogoOpenWindow="Blank";bookConfig.logoHeight="40";bookConfig.logoPadding="0";bookConfig.logoTop="0";bookConfig.toolbarColor="#2382ba";bookConfig.iconColor="#ECF5FB";bookConfig.pageNumColor="#000000";bookConfig.iconFontColor="#C6C6C6";bookConfig.toolbarAlwaysShow="No";bookConfig.formFontColor="#FFFFFF";bookConfig.formBackgroundColor="#27181A";bookConfig.ToolBarAlpha="1";bookConfig.CurlingPageCorner="Yes";bookConfig.showBookInstructionOnStart="false";bookConfig.InstructionsButtonVisible="Show";bookConfig.showInstructionOnStart="No";bookConfig.showGotoButtonsAtFirst="No";bookConfig.QRCode="Hide";bookConfig.HomeButtonVisible="Hide";bookConfig.HomeURL="%first page%";bookConfig.aboutButtonVisible="Hide";bookConfig.enablePageBack="Show";bookConfig.ShareButtonVisible="Hide";shareObj = [];bookConfig.isInsertFrameLinkEnable="Show";bookConfig.addCurrentPage="No";bookConfig.EmailButtonVisible="Hide";bookConfig.btnShareWithEmailBody="{link}";bookConfig.ThumbnailsButtonVisible="Hide";bookConfig.thumbnailColor="#333333";bookConfig.thumbnailAlpha="70";bookConfig.BookMarkButtonVisible="Hide";bookConfig.TableOfContentButtonVisible="Show";bookConfig.isHideTabelOfContentNodes="yes";bookConfig.SearchButtonVisible="Hide";bookConfig.leastSearchChar="3";bookConfig.searchKeywordFontColor="#FFB000";bookConfig.searchHightlightColor="#ffff00";bookConfig.SelectTextButtonVisible="Hide";bookConfig.PrintButtonVisible="Hide";bookConfig.BackgroundSoundButtonVisible="Show";bookConfig.FlipSound="Yes";bookConfig.BackgroundSoundLoop="-1";bookConfig.AutoPlayButtonVisible="Hide";bookConfig.autoPlayAutoStart="No";bookConfig.autoPlayDuration="9";bookConfig.autoPlayLoopCount="1";bookConfig.ZoomButtonVisible="Show";bookConfig.maxZoomWidth="1400";bookConfig.defaultZoomWidth="1000";bookConfig.mouseWheelFlip="Yes";bookConfig.ZoomMapVisible="Hide";bookConfig.DownloadButtonVisible="Hide";bookConfig.PhoneButtonVisible="Hide";bookConfig.AnnotationButtonVisible="Hide";bookConfig.FullscreenButtonVisible="Show";bookConfig.MagnifierButtonVisible="Hide";bookConfig.bgBeginColor="#E2E2E2";bookConfig.bgEndColor="#E2E2E2";bookConfig.bgMRotation="90";bookConfig.backGroundImgURL="../files/mobile-ext/backGroundImgURL.jpg";bookConfig.backgroundPosition="stretch";bookConfig.backgroundOpacity="100";bookConfig.backgroundScene="None";bookConfig.LeftShadowWidth="90";bookConfig.LeftShadowAlpha="0.6";bookConfig.RightShadowWidth="55";bookConfig.RightShadowAlpha="0.6";bookConfig.ShowTopLeftShadow="Yes";bookConfig.HardPageEnable="No";bookConfig.hardCoverBorderWidth="8";bookConfig.borderColor="#572F0D";bookConfig.outerCoverBorder="Yes";bookConfig.cornerRound="8";bookConfig.leftMarginOnMobile="0";bookConfig.topMarginOnMobile="0";bookConfig.rightMarginOnMobile="0";bookConfig.bottomMarginOnMobile="0";bookConfig.pageBackgroundColor="#E8E8E8";bookConfig.flipshortcutbutton="Show";bookConfig.BindingType="side";bookConfig.RightToLeft="No";bookConfig.FlipDirection="0";bookConfig.flippingTime="0.6";bookConfig.retainBookCenter="Yes";bookConfig.FlipStyle="Flip";bookConfig.autoDoublePage="Yes";bookConfig.isTheBookOpen="No";bookConfig.thicknessWidthType="Thinner";bookConfig.thicknessColor="#ffffff";bookConfig.SingleModeBanFlipToLastPage="No";bookConfig.showThicknessOnMobile="No";bookConfig.isSingleBookFullWindowOnMobile="no";bookConfig.isStopMouseMenu="yes";bookConfig.restorePageVisible="No";bookConfig.topMargin="10";bookConfig.bottomMargin="10";bookConfig.leftMargin="10";bookConfig.rightMargin="10";bookConfig.hideMiniFullscreen="no";bookConfig.maxWidthToSmallMode="400";bookConfig.maxHeightToSmallMode="300";bookConfig.leftRightPnlShowOption="None";bookConfig.highDefinitionConversion="yes";bookConfig.LargeLogoPosition="top-left";bookConfig.LargeLogoTarget="Blank";bookConfig.isFixLogoSize="No";bookConfig.logoFixWidth="0";bookConfig.logoFixHeight="0";bookConfig.SupportOperatePageZoom="Yes";bookConfig.showHelpContentAtFirst="No";bookConfig.updateURLForPage="No";bookConfig.LinkDownColor="#800080";bookConfig.LinkAlpha="0.2";bookConfig.OpenWindow="Blank";bookConfig.showLinkHint="No";bookConfig.MidBgColor="#929074";bookConfig.useTheAliCloudChart ="no";bookConfig.totalPageCount=134;bookConfig.largePageWidth=1800;bookConfig.largePageHeight=2546;;bookConfig.securityType="1";bookConfig.CreatedTime ="221114134228";bookConfig.bookTitle="BSE - AREA V - PARAMETER A";bookConfig.bookmarkCR="592753064a211e2087fd9fff774d4299ebaf6c55";bookConfig.productName="Flip PDF Professional";bookConfig.homePage="http://www.flipbuilder.com";bookConfig.searchPositionJS="javascript/text_position[1].js";bookConfig.searchTextJS="javascript/search_config.js";bookConfig.normalPath="../files/mobile/";bookConfig.largePath="../files/mobile/";bookConfig.thumbPath="../files/thumb/";bookConfig.userListPath="../files/extfiles/users.js";var language = [];var bmtConfig = [{ caption : "Faculty Researches", pageIndex : 5, color : "#004080" },{ caption : "Student Researches", pageIndex : 91, color : "#004080" },{ caption : "Reserach Abstracts", pageIndex : 97, color : "#004080" },{ caption : "Approved Research Agenda", pageIndex : 117, color : "#004080" }];bmtConfig.showPage =true;bmtConfig.onSideEdge =true;bmtConfig.hasTexture =true;;function orgt(s){ return binl2hex(core_hx(str2binl(s), s.length * chrsz));};; var pageEditor = {"setting":{}, "pageAnnos":[[],[],[],[],[],[],[],[],[{"annotype":"com.mobiano.flipbook.pageeditor.TAnnoLink","location":{"x":"0.511303","y":"0.653260","width":"0.270726","height":"0.015023"},"action":{"triggerEventType":"mouseDown","actionType":"com.mobiano.flipbook.pageeditor.TAnnoActionOpenURL","url":"mailto:mildred.sebastian@cvsu.edu.ph"}},{"annotype":"com.mobiano.flipbook.pageeditor.TAnnoLink","location":{"x":"0.488629","y":"0.728364","width":"0.217350","height":"0.015023"},"action":{"triggerEventType":"mouseDown","actionType":"com.mobiano.flipbook.pageeditor.TAnnoActionOpenURL","url":"mailto:ritchbanate@cvsu.edu.ph"}},{"annotype":"com.mobiano.flipbook.pageeditor.TAnnoLink","location":{"x":"0.488629","y":"0.788457","width":"0.223463","height":"0.015023"},"action":{"triggerEventType":"mouseDown","actionType":"com.mobiano.flipbook.pageeditor.TAnnoActionOpenURL","url":"mailto:ivory.mojica@cvsu.edu.ph"}},{"annotype":"com.mobiano.flipbook.pageeditor.TAnnoLink","location":{"x":"0.488629","y":"0.863572","width":"0.270726","height":"0.015011"},"action":{"triggerEventType":"mouseDown","actionType":"com.mobiano.flipbook.pageeditor.TAnnoActionOpenURL","url":"mailto:mildred.sebastian@cvsu.edu.ph"}},{"annotype":"com.mobiano.flipbook.pageeditor.TAnnoLink","location":{"x":"0.511303","y":"-0.346463","width":"0.270726","height":"0.015023"},"action":{"triggerEventType":"mouseDown","actionType":"com.mobiano.flipbook.pageeditor.TAnnoActionOpenURL","url":"mailto:mildred.sebastian@cvsu.edu.ph"}},{"annotype":"com.mobiano.flipbook.pageeditor.TAnnoLink","location":{"x":"0.488629","y":"-0.271359","width":"0.217350","height":"0.015023"},"action":{"triggerEventType":"mouseDown","actionType":"com.mobiano.flipbook.pageeditor.TAnnoActionOpenURL","url":"mailto:ritchbanate@cvsu.edu.ph"}},{"annotype":"com.mobiano.flipbook.pageeditor.TAnnoLink","location":{"x":"0.488629","y":"-0.211267","width":"0.223463","height":"0.015023"},"action":{"triggerEventType":"mouseDown","actionType":"com.mobiano.flipbook.pageeditor.TAnnoActionOpenURL","url":"mailto:ivory.mojica@cvsu.edu.ph"}},{"annotype":"com.mobiano.flipbook.pageeditor.TAnnoLink","location":{"x":"0.488629","y":"-0.136151","width":"0.270726","height":"0.015011"},"action":{"triggerEventType":"mouseDown","actionType":"com.mobiano.flipbook.pageeditor.TAnnoActionOpenURL","url":"mailto:mildred.sebastian@cvsu.edu.ph"}}],[{"annotype":"com.mobiano.flipbook.pageeditor.TAnnoLink","location":{"x":"0.488629","y":"0.103816","width":"0.249127","height":"0.015023"},"action":{"triggerEventType":"mouseDown","actionType":"com.mobiano.flipbook.pageeditor.TAnnoActionOpenURL","url":"mailto:maryjoy.mojica@cvsu.edu.ph"}},{"annotype":"com.mobiano.flipbook.pageeditor.TAnnoLink","location":{"x":"0.488629","y":"0.178920","width":"0.228619","height":"0.015023"},"action":{"triggerEventType":"mouseDown","actionType":"com.mobiano.flipbook.pageeditor.TAnnoActionOpenURL","url":"mailto:joycesenaris@cvsu.edu.ph"}},{"annotype":"com.mobiano.flipbook.pageeditor.TAnnoLink","location":{"x":"0.488629","y":"0.239013","width":"0.217333","height":"0.015023"},"action":{"triggerEventType":"mouseDown","actionType":"com.mobiano.flipbook.pageeditor.TAnnoActionOpenURL","url":"mailto:maria.tagle@cvsu.edu.ph"}},{"annotype":"com.mobiano.flipbook.pageeditor.TAnnoLink","location":{"x":"0.488629","y":"0.329140","width":"0.216308","height":"0.015023"},"action":{"triggerEventType":"mouseDown","actionType":"com.mobiano.flipbook.pageeditor.TAnnoActionOpenURL","url":"mailto:gacreencia@cvsu.edu.ph"}},{"annotype":"com.mobiano.flipbook.pageeditor.TAnnoLink","location":{"x":"0.488629","y":"0.389232","width":"0.226554","height":"0.015023"},"action":{"triggerEventType":"mouseDown","actionType":"com.mobiano.flipbook.pageeditor.TAnnoActionOpenURL","url":"mailto:gerry.silvero@cvsu.edu.ph"}},{"annotype":"com.mobiano.flipbook.pageeditor.TAnnoLink","location":{"x":"0.488629","y":"0.464336","width":"0.200873","height":"0.015023"},"action":{"triggerEventType":"mouseDown","actionType":"com.mobiano.flipbook.pageeditor.TAnnoActionOpenURL","url":"mailto:gil.ramos@cvsu.edu.ph"}},{"annotype":"com.mobiano.flipbook.pageeditor.TAnnoLink","location":{"x":"0.488629","y":"0.524429","width":"0.269718","height":"0.015023"},"action":{"triggerEventType":"mouseDown","actionType":"com.mobiano.flipbook.pageeditor.TAnnoActionOpenURL","url":"mailto:marydean.ampon@cvsu.edu.ph"}},{"annotype":"com.mobiano.flipbook.pageeditor.TAnnoLink","location":{"x":"0.488629","y":"0.599533","width":"0.221431","height":"0.015023"},"action":{"triggerEventType":"mouseDown","actionType":"com.mobiano.flipbook.pageeditor.TAnnoActionOpenURL","url":"mailto:estelita.villa@cvsu.edu.ph"}},{"annotype":"com.mobiano.flipbook.pageeditor.TAnnoLink","location":{"x":"0.488629","y":"0.659626","width":"0.266627","height":"0.015023"},"action":{"triggerEventType":"mouseDown","actionType":"com.mobiano.flipbook.pageeditor.TAnnoActionOpenURL","url":"mailto:audreyson.borilla@cvsu.edu.ph"}},{"annotype":"com.mobiano.flipbook.pageeditor.TAnnoLink","location":{"x":"0.488629","y":"-0.895907","width":"0.249127","height":"0.015023"},"action":{"triggerEventType":"mouseDown","actionType":"com.mobiano.flipbook.pageeditor.TAnnoActionOpenURL","url":"mailto:maryjoy.mojica@cvsu.edu.ph"}},{"annotype":"com.mobiano.flipbook.pageeditor.TAnnoLink","location":{"x":"0.488629","y":"-0.820803","width":"0.228619","height":"0.015023"},"action":{"triggerEventType":"mouseDown","actionType":"com.mobiano.flipbook.pageeditor.TAnnoActionOpenURL","url":"mailto:joycesenaris@cvsu.edu.ph"}},{"annotype":"com.mobiano.flipbook.pageeditor.TAnnoLink","location":{"x":"0.488629","y":"-0.760710","width":"0.217333","height":"0.015023"},"action":{"triggerEventType":"mouseDown","actionType":"com.mobiano.flipbook.pageeditor.TAnnoActionOpenURL","url":"mailto:maria.tagle@cvsu.edu.ph"}},{"annotype":"com.mobiano.flipbook.pageeditor.TAnnoLink","location":{"x":"0.488629","y":"-0.670583","width":"0.216308","height":"0.015023"},"action":{"triggerEventType":"mouseDown","actionType":"com.mobiano.flipbook.pageeditor.TAnnoActionOpenURL","url":"mailto:gacreencia@cvsu.edu.ph"}},{"annotype":"com.mobiano.flipbook.pageeditor.TAnnoLink","location":{"x":"0.488629","y":"-0.610491","width":"0.226554","height":"0.015023"},"action":{"triggerEventType":"mouseDown","actionType":"com.mobiano.flipbook.pageeditor.TAnnoActionOpenURL","url":"mailto:gerry.silvero@cvsu.edu.ph"}},{"annotype":"com.mobiano.flipbook.pageeditor.TAnnoLink","location":{"x":"0.488629","y":"-0.535387","width":"0.200873","height":"0.015023"},"action":{"triggerEventType":"mouseDown","actionType":"com.mobiano.flipbook.pageeditor.TAnnoActionOpenURL","url":"mailto:gil.ramos@cvsu.edu.ph"}},{"annotype":"com.mobiano.flipbook.pageeditor.TAnnoLink","location":{"x":"0.488629","y":"-0.475294","width":"0.269718","height":"0.015023"},"action":{"triggerEventType":"mouseDown","actionType":"com.mobiano.flipbook.pageeditor.TAnnoActionOpenURL","url":"mailto:marydean.ampon@cvsu.edu.ph"}},{"annotype":"com.mobiano.flipbook.pageeditor.TAnnoLink","location":{"x":"0.488629","y":"-0.400190","width":"0.221431","height":"0.015023"},"action":{"triggerEventType":"mouseDown","actionType":"com.mobiano.flipbook.pageeditor.TAnnoActionOpenURL","url":"mailto:estelita.villa@cvsu.edu.ph"}},{"annotype":"com.mobiano.flipbook.pageeditor.TAnnoLink","location":{"x":"0.488629","y":"-0.340098","width":"0.266627","height":"0.015023"},"action":{"triggerEventType":"mouseDown","actionType":"com.mobiano.flipbook.pageeditor.TAnnoActionOpenURL","url":"mailto:audreyson.borilla@cvsu.edu.ph"}}],[],[],[],[],[],[],[],[],[{"annotype":"com.mobiano.flipbook.pageeditor.TAnnoLink","location":{"x":"0.548371","y":"0.116793","width":"0.193193","height":"-0.014566"},"action":{"triggerEventType":"mouseDown","actionType":"com.mobiano.flipbook.pageeditor.TAnnoActionOpenURL","url":"mailto:gil.ramos@cvsu.edu.ph"}}],[{"annotype":"com.mobiano.flipbook.pageeditor.TAnnoLink","location":{"x":"0.540645","y":"0.086615","width":"0.239510","height":"-0.014566"},"action":{"triggerEventType":"mouseDown","actionType":"com.mobiano.flipbook.pageeditor.TAnnoActionOpenURL","url":"mailto:jeffrey.delgado@cvsu.edu.ph"}}],[],[],[],[],[],[],[],[],[],[{"annotype":"com.mobiano.flipbook.pageeditor.TAnnoLink","location":{"x":"0.426398","y":"0.715713","width":"0.044857","height":"-0.014567"},"action":{"triggerEventType":"mouseDown","actionType":"com.mobiano.flipbook.pageeditor.TAnnoActionOpenURL","url":"http://et.al"}}],[],[],[{"annotype":"com.mobiano.flipbook.pageeditor.TAnnoLink","location":{"x":"0.246893","y":"0.883049","width":"0.679459","height":"0.015022"},"action":{"triggerEventType":"mouseDown","actionType":"com.mobiano.flipbook.pageeditor.TAnnoActionOpenURL","url":"https://www.insidehighered.com/blogs/hi%20gher-ed-gamma/career-preparedness"}},{"annotype":"com.mobiano.flipbook.pageeditor.TAnnoLink","location":{"x":"0.246893","y":"-0.116912","width":"0.679459","height":"0.015022"},"action":{"triggerEventType":"mouseDown","actionType":"com.mobiano.flipbook.pageeditor.TAnnoActionOpenURL","url":"https://www.insidehighered.com/blogs/hi%20gher-ed-gamma/career-preparedness"}}],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[{"annotype":"com.mobiano.flipbook.pageeditor.TAnnoLink","location":{"x":"0.422657","y":"0.173920","width":"0.154602","height":"0.014560"},"action":{"triggerEventType":"mouseDown","actionType":"com.mobiano.flipbook.pageeditor.TAnnoActionOpenURL","url":"http://www.cvsu.edu.ph/"}},{"annotype":"com.mobiano.flipbook.pageeditor.TAnnoLink","location":{"x":"0.422657","y":"-0.826040","width":"0.154602","height":"0.014560"},"action":{"triggerEventType":"mouseDown","actionType":"com.mobiano.flipbook.pageeditor.TAnnoActionOpenURL","url":"http://www.cvsu.edu.ph/"}}],[],[{"annotype":"com.mobiano.flipbook.pageeditor.TAnnoLink","location":{"x":"0.476822","y":"0.457828","width":"0.214182","height":"-0.015894"},"action":{"triggerEventType":"mouseDown","actionType":"com.mobiano.flipbook.pageeditor.TAnnoActionOpenURL","url":"mailto:nelson.nico@gmail.com"}},{"annotype":"com.mobiano.flipbook.pageeditor.TAnnoLink","location":{"x":"0.460648","y":"0.408636","width":"0.242493","height":"-0.015894"},"action":{"triggerEventType":"mouseDown","actionType":"com.mobiano.flipbook.pageeditor.TAnnoActionOpenURL","url":"mailto:anamarie.obon@gmail.com"}},{"annotype":"com.mobiano.flipbook.pageeditor.TAnnoLink","location":{"x":"0.442173","y":"0.359694","width":"0.283695","height":"-0.015895"},"action":{"triggerEventType":"mouseDown","actionType":"com.mobiano.flipbook.pageeditor.TAnnoActionOpenURL","url":"mailto:reynoldcampo1126@gmail.com"}},{"annotype":"com.mobiano.flipbook.pageeditor.TAnnoLink","location":{"x":"0.473463","y":"0.309527","width":"0.223086","height":"-0.014570"},"action":{"triggerEventType":"mouseDown","actionType":"com.mobiano.flipbook.pageeditor.TAnnoActionOpenURL","url":"mailto:randydavines2@gmail.com"}},{"annotype":"com.mobiano.flipbook.pageeditor.TAnnoLink","location":{"x":"0.442173","y":"0.209753","width":"0.283695","height":"-0.015895"},"action":{"triggerEventType":"mouseDown","actionType":"com.mobiano.flipbook.pageeditor.TAnnoActionOpenURL","url":"mailto:reynoldcampo1126@gmail.com"}},{"annotype":"com.mobiano.flipbook.pageeditor.TAnnoLink","location":{"x":"0.464007","y":"0.160549","width":"0.239779","height":"-0.015895"},"action":{"triggerEventType":"mouseDown","actionType":"com.mobiano.flipbook.pageeditor.TAnnoActionOpenURL","url":"mailto:rmsantos0107@gmail.com"}}],[],[],[],[],[{"annotype":"com.mobiano.flipbook.pageeditor.TAnnoLink","location":{"x":"0.123300","y":"0.391572","width":"0.055806","height":"0.022541"},"action":{"triggerEventType":"mouseDown","actionType":"com.mobiano.flipbook.pageeditor.TAnnoActionOpenURL","url":"https://data.worldbank.org/"}},{"annotype":"com.mobiano.flipbook.pageeditor.TAnnoLink","location":{"x":"0.123300","y":"-0.608270","width":"0.055806","height":"0.022541"},"action":{"triggerEventType":"mouseDown","actionType":"com.mobiano.flipbook.pageeditor.TAnnoActionOpenURL","url":"https://data.worldbank.org/"}},{"annotype":"com.mobiano.flipbook.pageeditor.TAnnoLink","location":{"x":"0.817755","y":"0.361599","width":"0.061256","height":"-0.014568"},"action":{"triggerEventType":"mouseDown","actionType":"com.mobiano.flipbook.pageeditor.TAnnoActionOpenURL","url":"http://ie.org."}}],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[{"annotype":"com.mobiano.flipbook.pageeditor.TAnnoLink","location":{"x":"0.424513","y":"0.489916","width":"0.091144","height":"-0.014569"},"action":{"triggerEventType":"mouseDown","actionType":"com.mobiano.flipbook.pageeditor.TAnnoActionOpenURL","url":"http://manual.pdf"}}],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[]]}; bookConfig.isFlipPdf=true; var pages_information =[{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{}];	
+	if(language&&language.length>0&&language[0]&&language[0].language){
+		bookConfig.language=language[0].language;
+	}
+	
+try{
+	for(var i=0;pageEditor!=undefined&&i<pageEditor.length;i++){
+		if(pageEditor[i].length==0){
+			continue;
+		}
+		for(var j=0;j<pageEditor[i].length;j++){
+			var anno=pageEditor[i][j];
+			if(anno==undefined)continue;
+			if(anno.overAlpha==undefined){
+				anno.overAlpha=bookConfig.LinkAlpha;
+			}
+			if(anno.outAlpha==undefined){
+				anno.outAlpha=0;
+			}
+			if(anno.downAlpha==undefined){
+				anno.downAlpha=bookConfig.LinkAlpha;
+			}
+			if(anno.overColor==undefined){
+				anno.overColor=bookConfig.LinkDownColor;
+			}
+			if(anno.downColor==undefined){
+				anno.downColor=bookConfig.LinkDownColor;
+			}
+			if(anno.outColor==undefined){
+				anno.outColor=bookConfig.LinkDownColor;
+			}
+			if(anno.annotype=='com.mobiano.flipbook.pageeditor.TAnnoLink'){
+				anno.alpha=bookConfig.LinkAlpha;
+			}
+		}
+	}
+}catch(e){
+}
+try{
+	$.browser.device = 2;
+}catch(ee){
+}
