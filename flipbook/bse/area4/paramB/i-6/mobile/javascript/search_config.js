@@ -1,1 +1,1 @@
-﻿var textForPages = [];
+﻿var textForPages = ["I.6.            The test are disseminated to concerned                           parties.","Letters addressed to concerned                                                      parties","","","","","",""];
