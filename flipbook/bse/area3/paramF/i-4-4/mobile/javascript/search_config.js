@@ -1,0 +1,1 @@
+﻿var textForPages = ["I.4.            Periodic faculty performance evaluation                           in teaching and in other function is                           conducted by at least three of the                          following:                           I.4.4.  peers; and","","","","","","","","","","","","","","","","","","","","","",""];
