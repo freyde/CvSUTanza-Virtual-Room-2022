@@ -1,0 +1,1 @@
+﻿var textForPages = ["S.18.           There are financial assistance                           programs designed for:                           S.18.5. others (please specify)","CASH LOAD LOAD ASSISTANCE PROGRAM WAS GIVEN TO STUDENTs                        WITHOUT EXISTING GOVERNMENT AND PRIVATE SCHOLARSHIPS"];
