@@ -1,0 +1,1 @@
+﻿var textForPages = ["S.13.           The institution has well equipped                           offices.                           S.13.2. Sports Development;","Manual of Operation","","","Vicinity and Building Map","Sports Development Office is in the Office of Student Affairs and Services","Sports Development Office is in the Office of Student Affairs and Services"];
