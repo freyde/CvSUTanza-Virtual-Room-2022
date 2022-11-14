@@ -1,1 +1,1 @@
-﻿var textForPages = [];
+﻿var textForPages = ["S.3.            The information materials on                           educational, career, personal and                           social concerns are readily available,                          such as:                           S.3.2.  Anti-Bullying Act;","","Manual of Operations","","","Student Handbook","","","",""];
