@@ -1,1 +1,1 @@
-﻿var textForPages = [];
+﻿var textForPages = ["S.14.           There is a mechanism to establish                           partnership and collaboration with                           other institutions, agencies and                          industry.","","Manual of Operations","","","Approved Policies and Guidelines on                     Partnership and Collaboration","","","","","","","",""];
