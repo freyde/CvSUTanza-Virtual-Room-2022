@@ -1,0 +1,1 @@
+﻿var textForPages = ["S.6.            The following basic services are                           available:                           S.6.3.  Institutional Student Programs                                         and Services;                                           S.6.3.13. others (please specify)"];
