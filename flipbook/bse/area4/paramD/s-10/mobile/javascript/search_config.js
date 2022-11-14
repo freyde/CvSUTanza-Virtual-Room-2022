@@ -1,1 +1,1 @@
-﻿var textForPages = [];
+﻿var textForPages = ["S.10.           A liaison is available to assist foreign                           students in their transactions with                           concerned government agencies,                          whenever applicable.","Organizational Structure","","","Terms of Reference",""];
