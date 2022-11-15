@@ -1,0 +1,1 @@
+﻿var textForPages = ["AREA IX                                 LABORATORIES","PARAMETER D                                                    SPECIAL                                  PROVISIONS","IMPLEMENTATION","I.1.            The institution implements the special                           provisions as listed in the CMO.","","","","","","","","","",""];
