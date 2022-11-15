@@ -1,0 +1,1 @@
+﻿var textForPages = ["I.7.            The following are properly maintained                           by trained staff/technicians:                           I.7.4.  research facilities;","The campus library serves as a research facility of the students"];
