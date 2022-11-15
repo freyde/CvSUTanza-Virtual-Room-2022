@@ -1,1 +1,1 @@
-﻿var textForPages = ["AREA IV                                        SUPPORT TO                                       STUDENTS","PARAMETER E                                            RESEARCH,                  MONITORING AND                                  EVALUATION","SYSTEM - INPUTS                                AND PROCESS","S.1.            The institution has a research program                           on student affairs and services.","Manual of Operations","","","","","Research Manual","CvSU Research Manual"];
+﻿var textForPages = [];
