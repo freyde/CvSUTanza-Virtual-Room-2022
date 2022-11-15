@@ -1,1 +1,1 @@
-﻿var textForPages = ["O.1.            The buildings and other facilities are                           safe, well-maintained and functional.","The main building and other functional rooms are                well sustained and with proper maintenance.","","","","","","","","","","",""];
+﻿var textForPages = [];
