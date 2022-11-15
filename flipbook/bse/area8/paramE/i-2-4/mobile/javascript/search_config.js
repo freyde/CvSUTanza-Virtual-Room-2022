@@ -1,1 +1,1 @@
-﻿var textForPages = ["I.2.            The constructed outdoor facilities are:                           I.2.4.   properly maintained and                                          secured;","Pabahay Court and Bagtas Magkaisa Park is properly                                 maintained and kept clean.","The Bagtas Magkaisa Dome is used as a multipurpose hall for events, training and                                  programs, and other CvSU Tanza Campus Activities."];
+﻿var textForPages = [];
