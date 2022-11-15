@@ -1,0 +1,1 @@
+﻿var textForPages = ["I.4.            The institution recognizes the right of                           the students to:                           I.4.1.  govern themselves as a student                                         body;","Results of the                                      Consultative Meeting                                     (Memo from VPAA)","",""];

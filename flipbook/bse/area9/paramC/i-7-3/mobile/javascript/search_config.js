@@ -1,0 +1,1 @@
+﻿var textForPages = ["I.7.            The following are properly maintained                           by trained staff/technicians:                           I.7.3.   multi-media/educational                                         technology center;","","55\" Smart TV is installed and 5 computers equipped with speaker, headset and a camera"];
