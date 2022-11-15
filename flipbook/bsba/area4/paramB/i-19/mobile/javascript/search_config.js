@@ -1,1 +1,1 @@
-﻿var textForPages = [];
+﻿var textForPages = ["I.19.           The student body is involved in the                           development and revision of Student                           Handbook.","Letter","","Pictures of Meeting",""];
