@@ -1,0 +1,1 @@
+﻿var textForPages = ["S.9.            In the absence of a laboratory school in                           campus, there is a long-term MOA with                           a cooperating school.","","","","","Student Internship Endorsement Letters","","","","","",""];

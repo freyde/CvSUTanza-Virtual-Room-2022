@@ -1,0 +1,1 @@
+﻿var textForPages = ["I.9.            A well-equipped Multimedia Center is                           maintained.","Well-equipped and Well-maintained Edu-Tech Room"];
