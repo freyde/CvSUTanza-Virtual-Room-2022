@@ -1,1 +1,1 @@
-﻿var textForPages = [];
+﻿var textForPages = ["S.2.            Admission requirements and                           procedures of persons with disabilities                           as stipulated in R.A. 7277 are in place.","Manual of Operations","","","","Provisions under RA 7277","","","","","","","","","","","","","","","","",""];
