@@ -1,0 +1,1 @@
+﻿var textForPages = ["I.5.            The list of tuition and other school fees                           are posted conspicuously.","Announcement of School                                Fees is posted at the                               Registrar Bulletin Board","",""];
