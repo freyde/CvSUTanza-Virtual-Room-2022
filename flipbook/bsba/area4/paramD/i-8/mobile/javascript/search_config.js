@@ -1,0 +1,1 @@
+﻿var textForPages = ["I.8.            Criteria for safety sanitation and food                           choices in the school canteen/cafeteria                           are enforced.","No Food Services during Pandemic","","",""];

@@ -1,0 +1,1 @@
+﻿var textForPages = ["I.10.           The institution periodically inspect food                           outlets for sanitation and hygiene. The                           sanitary permit is displayed in a                          prominent area of the food outlet.","No food services during                               Pandemic 2020-2022","","",""];

@@ -1,0 +1,1 @@
+﻿var textForPages = ["I.9.            The institution coordinates with the                           local government for the safety and                           sanitation of food service outside the                          school premises.","No Food Services during Pandemic","","",""];

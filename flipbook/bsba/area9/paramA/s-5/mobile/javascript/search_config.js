@@ -1,0 +1,1 @@
+﻿var textForPages = ["S.5.            There is a laboratory for shop work for                           specific technology","Computer Laboratory","","Audio Visual Room","","Multimedia Room","","Linkages Establishment","Memorandum of Agreement","","","","","","","","","","","","","","","","","",""];
