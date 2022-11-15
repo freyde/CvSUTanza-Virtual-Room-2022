@@ -1,0 +1,1 @@
+﻿var textForPages = ["I.17.           The institution encourages student                           economic ventures such as but not                           limited to:                          I.17.1.  student laboratory cooperative;","",""];
