@@ -1,1 +1,1 @@
-﻿var textForPages = [];
+﻿var textForPages = ["S.8.            All the Guidance Counsellor are                           licensed.","Curriculum Vitae","","","","","","","","Copy of License",""];

@@ -1,1 +1,1 @@
-﻿var textForPages = [];
+﻿var textForPages = ["I.13.           The College / Academic Unit maintains                           consortia and linkages with other                           leaning institutions for academic                          exchange of instructional materials.","","","","","","","","",""];
