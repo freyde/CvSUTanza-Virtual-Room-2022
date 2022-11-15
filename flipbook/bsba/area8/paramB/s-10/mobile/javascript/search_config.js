@@ -1,1 +1,1 @@
-﻿var textForPages = ["S.10.           There is a central signal and fire alarm                           system.","A central signal fire alarm system is located                                      in every building."];
+﻿var textForPages = [];
