@@ -1,0 +1,1 @@
+﻿var textForPages = ["AREA IX                                 LABORATORIES","PARAMETER C                                  MAINTENANCE","IMPLEMENTATION","I.1.            The institution keeps the laboratories                           neat, clean, and orderly.","Computer Laboratory","","Educational Technology Room",""];

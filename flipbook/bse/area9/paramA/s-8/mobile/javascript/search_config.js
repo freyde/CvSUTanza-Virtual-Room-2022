@@ -1,0 +1,1 @@
+﻿var textForPages = ["S.8.            There is an in-campus laboratory                           school where students can undertake                           their field study.","Not Applicable"];

@@ -1,0 +1,1 @@
+﻿var textForPages = ["I.5.            Demonstration and training on the                           proper use of fire extinguishers, first-                           aid kit, and other emergency measures                          are periodically conducted.","","","","","","","","","","","","","","","","","","","","","","","","","","","",""];

@@ -1,0 +1,1 @@
+﻿var textForPages = ["I.12.           Laboratory equipment, supplies, and                           materials are kept in separate stock                           rooms.","Laboratory equipment, supplies and materials are kept in separate stock room","Sports equipment, supplies and materials are kept in separate stock room"];
