@@ -1,0 +1,1 @@
+﻿var textForPages = ["S.2.            An educational technology laboratory is                           available where audio-visual materials                           are prepared, presented, and viewed to                          enhance instruction.","","","55\" Smart TV is installed and 5 computers equipped with speaker, headset and a camera"];

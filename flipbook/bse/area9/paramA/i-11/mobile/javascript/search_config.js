@@ -1,0 +1,1 @@
+﻿var textForPages = ["I.11.           A demonstration table, equipped with                           sink, water, electrical, and gas outlets                           is available and utilized.","","",""];

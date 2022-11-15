@@ -1,0 +1,1 @@
+﻿var textForPages = ["S.5.            Each laboratory room has at least two                           exit doors that open outward.","","Evacuation Plan posted in Laboratory room","Exit doors in Laboratory room open outward","",""];
