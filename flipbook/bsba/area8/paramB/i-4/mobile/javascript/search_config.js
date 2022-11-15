@@ -1,1 +1,1 @@
-﻿var textForPages = ["I.4.            Water facilities are functional and well-                           distributed in all buildings.","Tanza Campus has a water supply from the Naic Water System and                                           well distributed inside the campus."];
+﻿var textForPages = [];

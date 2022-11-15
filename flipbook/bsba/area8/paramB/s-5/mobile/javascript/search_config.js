@@ -1,1 +1,1 @@
-﻿var textForPages = ["S.5.            Emergency exist are provided and                           properly marked/","CvSU – Tanza Campus Floor Plan.","Faculty Floor Plan","Lecture Room Floor Plan","Laboratory Rooms Floor Plan","Computer laboratory Floor Plan","Educ-Tech Room Floor Plan","Computer Laboratory and Educ-Tech Floor Plan","Evacuation Plan","There is an emergency exit in case of unexpected                      events that needs immediate evacuation."];
+﻿var textForPages = [];
