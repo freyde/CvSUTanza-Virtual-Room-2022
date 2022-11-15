@@ -1,0 +1,1 @@
+﻿var textForPages = ["S.3.            The laboratories have proper lighting                           and ventilation.","","Well-lighted and well-ventilated Computer Laboratory and Edu-Tech Room"];
