@@ -1,0 +1,1 @@
+﻿var textForPages = ["I.11.           The institution maintains active                           networking with the schools, the                           communities, alumni, and other                          concerned agencies for career and job                           placement of students.","Memorandum of Agreement","","","","","","","","","","","","",""];
