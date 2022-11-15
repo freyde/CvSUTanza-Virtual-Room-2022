@@ -1,0 +1,1 @@
+﻿var textForPages = ["I.24.           Sports development programs are                           regularly conducted.","Sports Development Activities have               been cancelled due to Pandemic","",""];
