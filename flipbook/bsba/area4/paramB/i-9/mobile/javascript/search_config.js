@@ -1,1 +1,1 @@
-﻿var textForPages = [];
+﻿var textForPages = ["I.9.            The Guidance Office prepares valid                           appraisal data of students for career                           and job placement.","Memo","","Evaluation of Appraisal Data","","","","","","34","35","36"];
