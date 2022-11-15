@@ -1,0 +1,1 @@
+﻿var textForPages = ["I.4.            Laboratory Operation Manuals for the                           faculty and students are provided in                           each laboratory.","","","","","The laboratory has displayed guidelines","",""];
