@@ -1,0 +1,1 @@
+﻿var textForPages = ["S.3.            There is an approved Annual                           Procurement Plan (APP) for laboratory                           equipment, supplies, and materials.","","","","","","","","","","","","","","","",""];
