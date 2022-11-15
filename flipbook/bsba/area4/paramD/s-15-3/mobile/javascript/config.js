@@ -1,0 +1,180 @@
+﻿	var aliasConfig = {
+appName : ["", "", ""],
+totalPageCount : [],
+largePageWidth : [],
+largePageHeight : [],
+normalPath : [],
+largePath : [],
+thumbPath : [],
+
+ToolBarsSettings:[],
+TitleBar:[],
+appLogoIcon:["appLogoIcon"],
+appLogoLinkURL:["appLogoLinkURL"],
+bookTitle : [],
+bookDescription : [],
+ButtonsBar : [],
+ShareButton : [],
+ShareButtonVisible : ["socialShareButtonVisible"],
+ThumbnailsButton : [],
+ThumbnailsButtonVisible : ["enableThumbnail"],
+ZoomButton : [],
+ZoomButtonVisible : ["enableZoomIn"],
+FlashDisplaySettings : [],
+MainBgConfig : [],
+bgBeginColor : ["bgBeginColor"],
+bgEndColor : ["bgEndColor"],
+bgMRotation : ["bgMRotation"],
+backGroundImgURL : ["mainbgImgUrl","innerMainbgImgUrl"],
+pageBackgroundColor : ["pageBackgroundColor"],
+flipshortcutbutton : [],
+BookMargins : [],
+topMargin : [],
+bottomMargin : [],
+leftMargin : [],
+rightMargin : [],
+HTMLControlSettings : [],
+linkconfig : [],
+LinkDownColor : ["linkOverColor"],
+LinkAlpha : ["linkOverColorAlpha"],
+OpenWindow : ["linkOpenedWindow"],
+searchColor : [],
+searchAlpha : [],
+SearchButtonVisible : ["searchButtonVisible"],
+
+productName : [],
+homePage : [],
+enableAutoPlay : ["autoPlayAutoStart"],
+autoPlayDuration : ["autoPlayDuration"],
+autoPlayLoopCount : ["autoPlayLoopCount"],
+BookMarkButtonVisible : [],
+googleAnalyticsID : ["googleAnalyticsID"],
+OriginPageIndex : [],	
+HardPageEnable : ["isHardCover"],	
+UIBaseURL : [],	
+RightToLeft: ["isRightToLeft"],	
+
+LeftShadowWidth : ["leftPageShadowWidth"],	
+LeftShadowAlpha : ["pageShadowAlpha"],
+RightShadowWidth : ["rightPageShadowWidth"],
+RightShadowAlpha : ["pageShadowAlpha"],
+ShortcutButtonHeight : [],	
+ShortcutButtonWidth : [],
+AutoPlayButtonVisible : ["enableAutoPlay"],	
+DownloadButtonVisible : ["enableDownload"],	
+DownloadURL : ["downloadURL"],
+HomeButtonVisible :["homeButtonVisible"],
+HomeURL:['btnHomeURL'],
+BackgroundSoundURL:['bacgroundSoundURL'],
+//TableOfContentButtonVisible:["BookMarkButtonVisible"],
+PrintButtonVisible:["enablePrint"],
+toolbarColor:["mainColor","barColor"],
+loadingBackground:["mainColor","barColor"],
+BackgroundSoundButtonVisible:["enableFlipSound"],
+FlipSound:["enableFlipSound"],
+MiniStyle:["userSmallMode"],
+retainBookCenter:["moveFlipBookToCenter"],
+totalPagesCaption:["totalPageNumberCaptionStr"],
+pageNumberCaption:["pageIndexCaptionStrs"]
+};
+var aliasLanguage={
+frmPrintbtn:["frmPrintCaption"],
+frmPrintall : ["frmPrintPrintAll"],
+frmPrintcurrent : ["frmPrintPrintCurrentPage"],
+frmPrintRange : ["frmPrintPrintRange"],
+frmPrintexample : ["frmPrintExampleCaption"],
+btnLanguage:["btnSwicthLanguage"],
+btnTableOfContent:["btnBookMark"]
+}
+;
+	var bookConfig = {
+	appName:'flippdf',
+	totalPageCount : 0,
+	largePageWidth : 1080,
+	largePageHeight : 1440,
+	normalPath : "files/page/",
+	largePath : "files/large/",
+	thumbPath : "files/thumb/",
+	
+	ToolBarsSettings:"",
+	TitleBar:"",
+	appLogoLinkURL:"",
+	bookTitle:"FLIPBUILDER",
+	bookDescription:"",
+	ButtonsBar:"",
+	ShareButton:"",
+	
+	ThumbnailsButton:"",
+	ThumbnailsButtonVisible:"Show",
+	ZoomButton:"",
+	ZoomButtonVisible:"Yes",
+	FlashDisplaySettings:"",
+	MainBgConfig:"",
+	bgBeginColor:"#cccccc",
+	bgEndColor:"#eeeeee",
+	bgMRotation:45,
+	pageBackgroundColor:"#FFFFFF",
+	flipshortcutbutton:"Show",
+	BookMargins:"",
+	topMargin:10,
+	bottomMargin:10,
+	leftMargin:10,
+	rightMargin:10,
+	HTMLControlSettings:"",
+	linkconfig:"",
+	LinkDownColor:"#808080",
+	LinkAlpha:0.5,
+	OpenWindow:"_Blank",
+
+	BookMarkButtonVisible:'true',
+	productName : 'Demo created by Flip PDF',
+	homePage : 'http://www.flipbuilder.com/',
+	isFlipPdf : "true",
+	TableOfContentButtonVisible:"true",
+	searchTextJS:'javascript/search_config.js',
+	searchPositionJS:undefined
+};
+	
+	
+	;bookConfig.BookTemplateName="metro";bookConfig.loadingCaptionColor="#DDDDDD";bookConfig.loadingBackground="#323232";bookConfig.appLogoIcon="../files/mobile-ext/appLogoIcon.png";bookConfig.appLogoOpenWindow="Blank";bookConfig.logoHeight="40";bookConfig.logoPadding="0";bookConfig.logoTop="0";bookConfig.toolbarColor="#626200";bookConfig.iconColor="#ECF5FB";bookConfig.pageNumColor="#000000";bookConfig.iconFontColor="#C6C6C6";bookConfig.toolbarAlwaysShow="No";bookConfig.formFontColor="#FFFFFF";bookConfig.formBackgroundColor="#27181A";bookConfig.ToolBarAlpha="1";bookConfig.CurlingPageCorner="Yes";bookConfig.showBookInstructionOnStart="false";bookConfig.InstructionsButtonVisible="Show";bookConfig.showInstructionOnStart="No";bookConfig.showGotoButtonsAtFirst="No";bookConfig.QRCode="Hide";bookConfig.HomeButtonVisible="Hide";bookConfig.HomeURL="%first page%";bookConfig.aboutButtonVisible="Hide";bookConfig.enablePageBack="Show";bookConfig.ShareButtonVisible="Hide";shareObj = [];bookConfig.isInsertFrameLinkEnable="Show";bookConfig.addCurrentPage="No";bookConfig.EmailButtonVisible="Hide";bookConfig.btnShareWithEmailBody="{link}";bookConfig.ThumbnailsButtonVisible="Hide";bookConfig.thumbnailColor="#333333";bookConfig.thumbnailAlpha="70";bookConfig.BookMarkButtonVisible="Hide";bookConfig.TableOfContentButtonVisible="Show";bookConfig.isHideTabelOfContentNodes="yes";bookConfig.SearchButtonVisible="Hide";bookConfig.leastSearchChar="3";bookConfig.searchKeywordFontColor="#FFB000";bookConfig.searchHightlightColor="#ffff00";bookConfig.SelectTextButtonVisible="Hide";bookConfig.PrintButtonVisible="Hide";bookConfig.BackgroundSoundButtonVisible="Show";bookConfig.FlipSound="Yes";bookConfig.BackgroundSoundLoop="-1";bookConfig.AutoPlayButtonVisible="Hide";bookConfig.autoPlayAutoStart="No";bookConfig.autoPlayDuration="9";bookConfig.autoPlayLoopCount="1";bookConfig.ZoomButtonVisible="Show";bookConfig.maxZoomWidth="1400";bookConfig.defaultZoomWidth="1000";bookConfig.mouseWheelFlip="Yes";bookConfig.ZoomMapVisible="Hide";bookConfig.DownloadButtonVisible="Hide";bookConfig.PhoneButtonVisible="Hide";bookConfig.AnnotationButtonVisible="Hide";bookConfig.FullscreenButtonVisible="Show";bookConfig.MagnifierButtonVisible="Hide";bookConfig.bgBeginColor="#E2E2E2";bookConfig.bgEndColor="#E2E2E2";bookConfig.bgMRotation="90";bookConfig.backGroundImgURL="../files/mobile-ext/backGroundImgURL.jpg";bookConfig.backgroundPosition="stretch";bookConfig.backgroundOpacity="100";bookConfig.backgroundScene="None";bookConfig.LeftShadowWidth="90";bookConfig.LeftShadowAlpha="0.6";bookConfig.RightShadowWidth="55";bookConfig.RightShadowAlpha="0.6";bookConfig.ShowTopLeftShadow="Yes";bookConfig.HardPageEnable="No";bookConfig.hardCoverBorderWidth="8";bookConfig.borderColor="#572F0D";bookConfig.outerCoverBorder="Yes";bookConfig.cornerRound="8";bookConfig.leftMarginOnMobile="0";bookConfig.topMarginOnMobile="0";bookConfig.rightMarginOnMobile="0";bookConfig.bottomMarginOnMobile="0";bookConfig.pageBackgroundColor="#E8E8E8";bookConfig.flipshortcutbutton="Show";bookConfig.BindingType="side";bookConfig.RightToLeft="No";bookConfig.FlipDirection="0";bookConfig.flippingTime="0.6";bookConfig.retainBookCenter="Yes";bookConfig.FlipStyle="Flip";bookConfig.autoDoublePage="Yes";bookConfig.isTheBookOpen="No";bookConfig.thicknessWidthType="Thinner";bookConfig.thicknessColor="#ffffff";bookConfig.SingleModeBanFlipToLastPage="No";bookConfig.showThicknessOnMobile="No";bookConfig.isSingleBookFullWindowOnMobile="no";bookConfig.isStopMouseMenu="yes";bookConfig.restorePageVisible="No";bookConfig.topMargin="10";bookConfig.bottomMargin="10";bookConfig.leftMargin="10";bookConfig.rightMargin="10";bookConfig.hideMiniFullscreen="no";bookConfig.maxWidthToSmallMode="400";bookConfig.maxHeightToSmallMode="300";bookConfig.leftRightPnlShowOption="None";bookConfig.highDefinitionConversion="yes";bookConfig.LargeLogoPosition="top-left";bookConfig.LargeLogoTarget="Blank";bookConfig.isFixLogoSize="No";bookConfig.logoFixWidth="0";bookConfig.logoFixHeight="0";bookConfig.SupportOperatePageZoom="Yes";bookConfig.showHelpContentAtFirst="No";bookConfig.updateURLForPage="No";bookConfig.LinkDownColor="#800080";bookConfig.LinkAlpha="0.2";bookConfig.OpenWindow="Blank";bookConfig.showLinkHint="No";bookConfig.MidBgColor="#649722";bookConfig.useTheAliCloudChart ="no";bookConfig.totalPageCount=15;bookConfig.largePageWidth=1800;bookConfig.largePageHeight=2546;;bookConfig.securityType="1";bookConfig.CreatedTime ="221115101315";bookConfig.bookTitle="BSBA - AREA 4 - PARAMETER D";bookConfig.bookmarkCR="198a6eea0468c2d4bc211f813fc65d288c9f0997";bookConfig.productName="Flip PDF Professional";bookConfig.homePage="http://www.flipbuilder.com";bookConfig.searchPositionJS="javascript/text_position[1].js";bookConfig.searchTextJS="javascript/search_config.js";bookConfig.normalPath="../files/mobile/";bookConfig.largePath="../files/mobile/";bookConfig.thumbPath="../files/thumb/";bookConfig.userListPath="../files/extfiles/users.js";var language = [];;function orgt(s){ return binl2hex(core_hx(str2binl(s), s.length * chrsz));};; var pageEditor = {"setting":{"annoPlaying":"true","shoppingCartHTML":"false","shoppingCartOptinon":{"type":"PayPal","paypal":"","method":"POST","sandbox":"false","address":"","theme":"","body":"Hi xxx     I'm going to buy below product(s):      ${shopping}  Full Name","showPrice":"true","showTime":"true"}}, "pageAnnos":[[],[],[],[],[],[],[],[],[],[],[],[{"annotype":"com.mobiano.flipbook.pageeditor.TAnnoLink","annoId":"2022151012304836","alpha":"1","overColor":"8388736","downColor":"8388736","outColor":"11184810","overAlpha":"0.2","downAlpha":"0.2","outAlpha":"0","pageViewedBool":"true","ellipseH":"0","ellipseW":"0","location":{"tannoName":"link1","x":"0.73864","y":"0.645775","width":"0.029867","height":"0.034116","rotation":"0","reflection":"false","reflectionType":"0","reflectionAlpha":"0","pageWidth":"595.32","pageHeight":"841.92"},"hint":{"hintShapeColor":"0","hintShapeColor2":"0","hintShapeAlpha":"0","hintW":"0","hintH":"0","hintAuto":"true","hintShapeType":"2","text":""},"shadow":{"hasDropShadow":"false","shadowDistance":"0","shadowAngle":"0","shadowColor":"0","shadowAlpha":"0","shadowBlurX":"0","shadowBlurY":"0"},"highlightsBool":"false","linkStatus":"1","mouseOver":"false","borderColor":"16737792"},{"annotype":"com.mobiano.flipbook.pageeditor.TAnnoLink","annoId":"2022151012307683","alpha":"1","overColor":"8388736","downColor":"8388736","outColor":"11184810","overAlpha":"0.2","downAlpha":"0.2","outAlpha":"0","pageViewedBool":"true","ellipseH":"0","ellipseW":"0","location":{"tannoName":"link2","x":"0.638698","y":"0.6530849999999999","width":"0.029867","height":"0.034115","rotation":"0","reflection":"false","reflectionType":"0","reflectionAlpha":"0","pageWidth":"595.32","pageHeight":"841.92"},"hint":{"hintShapeColor":"0","hintShapeColor2":"0","hintShapeAlpha":"0","hintW":"0","hintH":"0","hintAuto":"true","hintShapeType":"2","text":""},"shadow":{"hasDropShadow":"false","shadowDistance":"0","shadowAngle":"0","shadowColor":"0","shadowAlpha":"0","shadowBlurX":"0","shadowBlurY":"0"},"highlightsBool":"false","linkStatus":"1","mouseOver":"false","borderColor":"16737792"}],[],[{"annotype":"com.mobiano.flipbook.pageeditor.TAnnoLink","annoId":"2022151012305330","alpha":"1","overColor":"8388736","downColor":"8388736","outColor":"11184810","overAlpha":"0.2","downAlpha":"0.2","outAlpha":"0","pageViewedBool":"true","ellipseH":"0","ellipseW":"0","location":{"tannoName":"link3","x":"0.126194","y":"0.306054","width":"0.173142","height":"0.023539","rotation":"0","reflection":"false","reflectionType":"0","reflectionAlpha":"0","pageWidth":"595.32","pageHeight":"841.92"},"hint":{"hintShapeColor":"0","hintShapeColor2":"0","hintShapeAlpha":"0","hintW":"0","hintH":"0","hintAuto":"true","hintShapeType":"2","text":""},"shadow":{"hasDropShadow":"false","shadowDistance":"0","shadowAngle":"0","shadowColor":"0","shadowAlpha":"0","shadowBlurX":"0","shadowBlurY":"0"},"highlightsBool":"false","linkStatus":"1","mouseOver":"false","borderColor":"16737792"},{"annotype":"com.mobiano.flipbook.pageeditor.TAnnoLink","annoId":"2022151012301014","alpha":"1","overColor":"8388736","downColor":"8388736","outColor":"11184810","overAlpha":"0.2","downAlpha":"0.2","outAlpha":"0","pageViewedBool":"true","ellipseH":"0","ellipseW":"0","location":{"tannoName":"link4","x":"0.453823","y":"0.325584","width":"0.168675","height":"0.021871","rotation":"0","reflection":"false","reflectionType":"0","reflectionAlpha":"0","pageWidth":"595.32","pageHeight":"841.92"},"hint":{"hintShapeColor":"0","hintShapeColor2":"0","hintShapeAlpha":"0","hintW":"0","hintH":"0","hintAuto":"true","hintShapeType":"2","text":""},"shadow":{"hasDropShadow":"false","shadowDistance":"0","shadowAngle":"0","shadowColor":"0","shadowAlpha":"0","shadowBlurX":"0","shadowBlurY":"0"},"highlightsBool":"false","linkStatus":"1","mouseOver":"false","borderColor":"16737792"},{"annotype":"com.mobiano.flipbook.pageeditor.TAnnoLink","annoId":"2022151012305604","alpha":"1","overColor":"8388736","downColor":"8388736","outColor":"11184810","overAlpha":"0.2","downAlpha":"0.2","outAlpha":"0","pageViewedBool":"true","ellipseH":"0","ellipseW":"0","location":{"tannoName":"link5","x":"0.45130300000000007","y":"0.333638","width":"0.17323","height":"0.071713","rotation":"0","reflection":"false","reflectionType":"0","reflectionAlpha":"0","pageWidth":"595.32","pageHeight":"841.92"},"hint":{"hintShapeColor":"0","hintShapeColor2":"0","hintShapeAlpha":"0","hintW":"0","hintH":"0","hintAuto":"true","hintShapeType":"2","text":""},"shadow":{"hasDropShadow":"false","shadowDistance":"0","shadowAngle":"0","shadowColor":"0","shadowAlpha":"0","shadowBlurX":"0","shadowBlurY":"0"},"highlightsBool":"false","linkStatus":"1","mouseOver":"false","borderColor":"16737792"},{"annotype":"com.mobiano.flipbook.pageeditor.TAnnoLink","annoId":"2022151012304184","alpha":"1","overColor":"8388736","downColor":"8388736","outColor":"11184810","overAlpha":"0.2","downAlpha":"0.2","outAlpha":"0","pageViewedBool":"true","ellipseH":"0","ellipseW":"0","location":{"tannoName":"link6","x":"0.590584","y":"0.38177","width":"0.034973","height":"0.019925","rotation":"0","reflection":"false","reflectionType":"0","reflectionAlpha":"0","pageWidth":"595.32","pageHeight":"841.92"},"hint":{"hintShapeColor":"0","hintShapeColor2":"0","hintShapeAlpha":"0","hintW":"0","hintH":"0","hintAuto":"true","hintShapeType":"2","text":""},"shadow":{"hasDropShadow":"false","shadowDistance":"0","shadowAngle":"0","shadowColor":"0","shadowAlpha":"0","shadowBlurX":"0","shadowBlurY":"0"},"highlightsBool":"false","linkStatus":"1","mouseOver":"false","borderColor":"16737792"},{"annotype":"com.mobiano.flipbook.pageeditor.TAnnoLink","annoId":"2022151012304592","alpha":"1","overColor":"8388736","downColor":"8388736","outColor":"11184810","overAlpha":"0.2","downAlpha":"0.2","outAlpha":"0","pageViewedBool":"true","ellipseH":"0","ellipseW":"0","location":{"tannoName":"link7","x":"0.593622","y":"0.383196","width":"0.037166","height":"0.01983","rotation":"0","reflection":"false","reflectionType":"0","reflectionAlpha":"0","pageWidth":"595.32","pageHeight":"841.92"},"hint":{"hintShapeColor":"0","hintShapeColor2":"0","hintShapeAlpha":"0","hintW":"0","hintH":"0","hintAuto":"true","hintShapeType":"2","text":""},"shadow":{"hasDropShadow":"false","shadowDistance":"0","shadowAngle":"0","shadowColor":"0","shadowAlpha":"0","shadowBlurX":"0","shadowBlurY":"0"},"highlightsBool":"false","linkStatus":"1","mouseOver":"false","borderColor":"16737792"},{"annotype":"com.mobiano.flipbook.pageeditor.TAnnoLink","annoId":"2022151012308752","alpha":"1","overColor":"8388736","downColor":"8388736","outColor":"11184810","overAlpha":"0.2","downAlpha":"0.2","outAlpha":"0","pageViewedBool":"true","ellipseH":"0","ellipseW":"0","location":{"tannoName":"link8","x":"0.619726","y":"0.387562","width":"0.011711","height":"0.012058","rotation":"0","reflection":"false","reflectionType":"0","reflectionAlpha":"0","pageWidth":"595.32","pageHeight":"841.92"},"hint":{"hintShapeColor":"0","hintShapeColor2":"0","hintShapeAlpha":"0","hintW":"0","hintH":"0","hintAuto":"true","hintShapeType":"2","text":""},"shadow":{"hasDropShadow":"false","shadowDistance":"0","shadowAngle":"0","shadowColor":"0","shadowAlpha":"0","shadowBlurX":"0","shadowBlurY":"0"},"highlightsBool":"false","linkStatus":"1","mouseOver":"false","borderColor":"16737792"},{"annotype":"com.mobiano.flipbook.pageeditor.TAnnoLink","annoId":"2022151012309599","alpha":"1","overColor":"8388736","downColor":"8388736","outColor":"11184810","overAlpha":"0.2","downAlpha":"0.2","outAlpha":"0","pageViewedBool":"true","ellipseH":"0","ellipseW":"0","location":{"tannoName":"link9","x":"0.638763","y":"0.323798","width":"0.182792","height":"0.094184","rotation":"0","reflection":"false","reflectionType":"0","reflectionAlpha":"0","pageWidth":"595.32","pageHeight":"841.92"},"hint":{"hintShapeColor":"0","hintShapeColor2":"0","hintShapeAlpha":"0","hintW":"0","hintH":"0","hintAuto":"true","hintShapeType":"2","text":""},"shadow":{"hasDropShadow":"false","shadowDistance":"0","shadowAngle":"0","shadowColor":"0","shadowAlpha":"0","shadowBlurX":"0","shadowBlurY":"0"},"highlightsBool":"false","linkStatus":"1","mouseOver":"false","borderColor":"16737792"},{"annotype":"com.mobiano.flipbook.pageeditor.TAnnoLink","annoId":"2022151012303425","alpha":"1","overColor":"8388736","downColor":"8388736","outColor":"11184810","overAlpha":"0.2","downAlpha":"0.2","outAlpha":"0","pageViewedBool":"true","ellipseH":"0","ellipseW":"0","location":{"tannoName":"link10","x":"0.6325989999999999","y":"0.326126","width":"0.05254000000000001","height":"0.093609","rotation":"0","reflection":"false","reflectionType":"0","reflectionAlpha":"0","pageWidth":"595.32","pageHeight":"841.92"},"hint":{"hintShapeColor":"0","hintShapeColor2":"0","hintShapeAlpha":"0","hintW":"0","hintH":"0","hintAuto":"true","hintShapeType":"2","text":""},"shadow":{"hasDropShadow":"false","shadowDistance":"0","shadowAngle":"0","shadowColor":"0","shadowAlpha":"0","shadowBlurX":"0","shadowBlurY":"0"},"highlightsBool":"false","linkStatus":"1","mouseOver":"false","borderColor":"16737792"},{"annotype":"com.mobiano.flipbook.pageeditor.TAnnoLink","annoId":"2022151012308638","alpha":"1","overColor":"8388736","downColor":"8388736","outColor":"11184810","overAlpha":"0.2","downAlpha":"0.2","outAlpha":"0","pageViewedBool":"true","ellipseH":"0","ellipseW":"0","location":{"tannoName":"link11","x":"0.641481","y":"0.38267500000000004","width":"0.03772","height":"0.029836","rotation":"0","reflection":"false","reflectionType":"0","reflectionAlpha":"0","pageWidth":"595.32","pageHeight":"841.92"},"hint":{"hintShapeColor":"0","hintShapeColor2":"0","hintShapeAlpha":"0","hintW":"0","hintH":"0","hintAuto":"true","hintShapeType":"2","text":""},"shadow":{"hasDropShadow":"false","shadowDistance":"0","shadowAngle":"0","shadowColor":"0","shadowAlpha":"0","shadowBlurX":"0","shadowBlurY":"0"},"highlightsBool":"false","linkStatus":"1","mouseOver":"false","borderColor":"16737792"},{"annotype":"com.mobiano.flipbook.pageeditor.TAnnoLink","annoId":"2022151012309607","alpha":"1","overColor":"8388736","downColor":"8388736","outColor":"11184810","overAlpha":"0.2","downAlpha":"0.2","outAlpha":"0","pageViewedBool":"true","ellipseH":"0","ellipseW":"0","location":{"tannoName":"link12","x":"0.645633","y":"0.386264","width":"0.030303999999999998","height":"0.024734","rotation":"0","reflection":"false","reflectionType":"0","reflectionAlpha":"0","pageWidth":"595.32","pageHeight":"841.92"},"hint":{"hintShapeColor":"0","hintShapeColor2":"0","hintShapeAlpha":"0","hintW":"0","hintH":"0","hintAuto":"true","hintShapeType":"2","text":""},"shadow":{"hasDropShadow":"false","shadowDistance":"0","shadowAngle":"0","shadowColor":"0","shadowAlpha":"0","shadowBlurX":"0","shadowBlurY":"0"},"highlightsBool":"false","linkStatus":"1","mouseOver":"false","borderColor":"16737792"},{"annotype":"com.mobiano.flipbook.pageeditor.TAnnoLink","annoId":"2022151012304717","alpha":"1","overColor":"8388736","downColor":"8388736","outColor":"11184810","overAlpha":"0.2","downAlpha":"0.2","outAlpha":"0","pageViewedBool":"true","ellipseH":"0","ellipseW":"0","location":{"tannoName":"link13","x":"0.630576","y":"0.39169","width":"0.027691","height":"0.019805","rotation":"0","reflection":"false","reflectionType":"0","reflectionAlpha":"0","pageWidth":"595.32","pageHeight":"841.92"},"hint":{"hintShapeColor":"0","hintShapeColor2":"0","hintShapeAlpha":"0","hintW":"0","hintH":"0","hintAuto":"true","hintShapeType":"2","text":""},"shadow":{"hasDropShadow":"false","shadowDistance":"0","shadowAngle":"0","shadowColor":"0","shadowAlpha":"0","shadowBlurX":"0","shadowBlurY":"0"},"highlightsBool":"false","linkStatus":"1","mouseOver":"false","borderColor":"16737792"},{"annotype":"com.mobiano.flipbook.pageeditor.TAnnoLink","annoId":"2022151012304807","alpha":"1","overColor":"8388736","downColor":"8388736","outColor":"11184810","overAlpha":"0.2","downAlpha":"0.2","outAlpha":"0","pageViewedBool":"true","ellipseH":"0","ellipseW":"0","location":{"tannoName":"link14","x":"0.632665","y":"0.389756","width":"0.066493","height":"0.020875","rotation":"0","reflection":"false","reflectionType":"0","reflectionAlpha":"0","pageWidth":"595.32","pageHeight":"841.92"},"hint":{"hintShapeColor":"0","hintShapeColor2":"0","hintShapeAlpha":"0","hintW":"0","hintH":"0","hintAuto":"true","hintShapeType":"2","text":""},"shadow":{"hasDropShadow":"false","shadowDistance":"0","shadowAngle":"0","shadowColor":"0","shadowAlpha":"0","shadowBlurX":"0","shadowBlurY":"0"},"highlightsBool":"false","linkStatus":"1","mouseOver":"false","borderColor":"16737792"},{"annotype":"com.mobiano.flipbook.pageeditor.TAnnoLink","annoId":"2022151012303412","alpha":"1","overColor":"8388736","downColor":"8388736","outColor":"11184810","overAlpha":"0.2","downAlpha":"0.2","outAlpha":"0","pageViewedBool":"true","ellipseH":"0","ellipseW":"0","location":{"tannoName":"link15","x":"0.7587639999999999","y":"0.323065","width":"0.074708","height":"0.093289","rotation":"0","reflection":"false","reflectionType":"0","reflectionAlpha":"0","pageWidth":"595.32","pageHeight":"841.92"},"hint":{"hintShapeColor":"0","hintShapeColor2":"0","hintShapeAlpha":"0","hintW":"0","hintH":"0","hintAuto":"true","hintShapeType":"2","text":""},"shadow":{"hasDropShadow":"false","shadowDistance":"0","shadowAngle":"0","shadowColor":"0","shadowAlpha":"0","shadowBlurX":"0","shadowBlurY":"0"},"highlightsBool":"false","linkStatus":"1","mouseOver":"false","borderColor":"16737792"},{"annotype":"com.mobiano.flipbook.pageeditor.TAnnoLink","annoId":"202215101230459","alpha":"1","overColor":"8388736","downColor":"8388736","outColor":"11184810","overAlpha":"0.2","downAlpha":"0.2","outAlpha":"0","pageViewedBool":"true","ellipseH":"0","ellipseW":"0","location":{"tannoName":"link16","x":"0.6191969999999999","y":"0.375864","width":"0.030062","height":"0.037976","rotation":"0","reflection":"false","reflectionType":"0","reflectionAlpha":"0","pageWidth":"595.32","pageHeight":"841.92"},"hint":{"hintShapeColor":"0","hintShapeColor2":"0","hintShapeAlpha":"0","hintW":"0","hintH":"0","hintAuto":"true","hintShapeType":"2","text":""},"shadow":{"hasDropShadow":"false","shadowDistance":"0","shadowAngle":"0","shadowColor":"0","shadowAlpha":"0","shadowBlurX":"0","shadowBlurY":"0"},"highlightsBool":"false","linkStatus":"1","mouseOver":"false","borderColor":"16737792"}],[]]}; bookConfig.isFlipPdf=true; var pages_information =[{pageColor:"16777215",pageIsStrech:"no"},{pageColor:"16777215",pageIsStrech:"no"},{pageColor:"16777215",pageIsStrech:"no"},{pageColor:"16777215",pageIsStrech:"no"},{pageColor:"16777215",pageIsStrech:"no"},{pageColor:"16777215",pageIsStrech:"no"},{pageColor:"16777215",pageIsStrech:"no"},{pageColor:"16777215",pageIsStrech:"no"},{pageColor:"16777215",pageIsStrech:"no"},{pageColor:"16777215",pageIsStrech:"no"},{pageColor:"16777215",pageIsStrech:"no"},{pageColor:"16777215",pageIsStrech:"no"},{pageColor:"16777215",pageIsStrech:"no"},{pageColor:"16777215",pageIsStrech:"no"},{pageColor:"16777215",pageIsStrech:"no"}];	
+	if(language&&language.length>0&&language[0]&&language[0].language){
+		bookConfig.language=language[0].language;
+	}
+	
+try{
+	for(var i=0;pageEditor!=undefined&&i<pageEditor.length;i++){
+		if(pageEditor[i].length==0){
+			continue;
+		}
+		for(var j=0;j<pageEditor[i].length;j++){
+			var anno=pageEditor[i][j];
+			if(anno==undefined)continue;
+			if(anno.overAlpha==undefined){
+				anno.overAlpha=bookConfig.LinkAlpha;
+			}
+			if(anno.outAlpha==undefined){
+				anno.outAlpha=0;
+			}
+			if(anno.downAlpha==undefined){
+				anno.downAlpha=bookConfig.LinkAlpha;
+			}
+			if(anno.overColor==undefined){
+				anno.overColor=bookConfig.LinkDownColor;
+			}
+			if(anno.downColor==undefined){
+				anno.downColor=bookConfig.LinkDownColor;
+			}
+			if(anno.outColor==undefined){
+				anno.outColor=bookConfig.LinkDownColor;
+			}
+			if(anno.annotype=='com.mobiano.flipbook.pageeditor.TAnnoLink'){
+				anno.alpha=bookConfig.LinkAlpha;
+			}
+		}
+	}
+}catch(e){
+}
+try{
+	$.browser.device = 2;
+}catch(ee){
+}

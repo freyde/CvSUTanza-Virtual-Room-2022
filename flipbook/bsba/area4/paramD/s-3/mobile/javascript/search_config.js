@@ -1,1 +1,1 @@
-﻿var textForPages = [];
+﻿var textForPages = ["S.3.            Scholarships and financial assistance                           in various forms are available to                           students.","Manual of Operations","","","","","Student Handbook","","","","","Policy Guidelines on granting of               Financial Assistance/Scholarship                                 to Students","","","","","","","","","","",""];
