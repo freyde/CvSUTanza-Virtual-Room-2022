@@ -1,1 +1,1 @@
-﻿var textForPages = ["S.13.           There are faculty rooms and officers.","OFFICE OF THE CAMPUS DEAN","REGISTRAR'S OFFICE","CASHIER'S OFFICE","Teachers Education Department","Department of Information Technology","General Education Department","Department of Management","QUALITY ASSURANCE AND ACCREDITATION OFFICE","OFFICE OF STUDENT AFFAIRS AND SERVICES"];
+﻿var textForPages = [];
