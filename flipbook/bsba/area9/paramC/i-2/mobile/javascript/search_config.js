@@ -1,0 +1,1 @@
+﻿var textForPages = ["I.2.            Laboratory supplies and materials are                           regularly replenished/replaced                           whenever applicable.","","","","","","","","","","","","","","","","",""];

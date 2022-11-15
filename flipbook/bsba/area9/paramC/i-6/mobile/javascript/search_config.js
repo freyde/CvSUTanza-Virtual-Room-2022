@@ -1,0 +1,1 @@
+﻿var textForPages = ["I.6.            Waste disposal is efficiently and                           effectively managed.","","","","","","","","","","Garbage collection schedule in Bagtas, Tanza, Cavite",""];
