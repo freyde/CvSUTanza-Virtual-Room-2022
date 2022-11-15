@@ -1,0 +1,1 @@
+﻿var textForPages = ["S.2.            The Dean/ Department Chair is a full-                           time administrator","","","O-265                                              ED                                              02-09-2022"];
