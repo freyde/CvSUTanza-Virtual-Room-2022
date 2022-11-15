@@ -1,0 +1,1 @@
+﻿var textForPages = ["I.7.            The following are properly maintained                           by trained staff/technicians:                           I.7.5.  general education laboratory;                                         I.7.5.1.   natural/physical                                          sciences;","A demonstration table is available and utilized"];
