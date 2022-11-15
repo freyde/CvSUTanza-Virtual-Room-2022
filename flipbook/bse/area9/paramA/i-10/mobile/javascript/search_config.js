@@ -1,0 +1,1 @@
+﻿var textForPages = ["I.10.           Gas, water, and electricity are available                           and utilized for class laboratory                           activities.","","","","","","","",""];
