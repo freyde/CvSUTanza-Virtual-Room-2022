@@ -1,1 +1,1 @@
-﻿var textForPages = [];
+﻿var textForPages = ["S.4.            There is adequate funding for the                           conduct of SAS researches and                           monitoring and evaluation.","","Financial Plan and Budget                   Allocation for Research and                                                Evaluation","","","","","","","","","","","","","","","","","",""];
