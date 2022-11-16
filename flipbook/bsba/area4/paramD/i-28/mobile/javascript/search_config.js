@@ -1,1 +1,1 @@
-﻿var textForPages = ["I.28.           The institution informs the students are                           other stakeholders on other related                           programs and services not cited in                          CMO No.9 s. 2013."];
+﻿var textForPages = [];
