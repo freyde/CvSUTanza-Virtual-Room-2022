@@ -1,1 +1,1 @@
-﻿var textForPages = ["I.1.         The following fringe benefits are granted:                       I.1.15. others (please specify)","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""];
+﻿var textForPages = [];
