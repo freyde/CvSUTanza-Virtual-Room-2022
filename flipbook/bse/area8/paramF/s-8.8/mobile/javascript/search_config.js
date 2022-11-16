@@ -1,0 +1,1 @@
+﻿var textForPages = ["S.8.            The following basic medical equipment                           and medicines are all available:                           S.8.8.   stethoscope (at least 2 units);","There are two available stethoscope at the campus clinic."];

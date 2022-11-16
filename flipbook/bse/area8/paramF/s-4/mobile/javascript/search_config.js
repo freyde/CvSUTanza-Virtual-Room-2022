@@ -1,0 +1,1 @@
+﻿var textForPages = ["S.4.            Medical and dental equipment are                           provided.","The campus clinic has medical equipment like                            oxygen and sphygmomanometer.","The campus clinic has medical bed and                                             sphygmomanometer.","The campus clinic has medicine supplies."];

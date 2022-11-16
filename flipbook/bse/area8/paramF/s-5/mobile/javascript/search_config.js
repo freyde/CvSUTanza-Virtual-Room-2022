@@ -1,0 +1,1 @@
+﻿var textForPages = ["S.5.            There are enough medical and dental                           supplies and materials.","The campus clinic has medicine supplies.","Purchase Request for Medical Supplies"];
