@@ -1,0 +1,1 @@
+﻿var textForPages = ["S.6.            Clean and sanitary toilets, for men                           separate from those of women are                           available.","There is clean and sanitary toilets for men and women."];
