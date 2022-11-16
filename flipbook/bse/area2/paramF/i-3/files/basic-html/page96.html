@@ -152,61 +152,64 @@ function MM_swapImage() { //v3.0
     </div>
 
     <p class="use-as-video-title"></p>
-    <pre style="white-space:pre-line"><code>Methods of Proof                                                                             9
+    <pre style="white-space:pre-line"><code>Methods of Proof                                                                             6
 
 
-                                     If  n  1,
-                                                      1
-                                             x   y   | x   y 1 
-                                     If  n  2 ,
-                                             x   y   | x   y 2 
-                                                       2
-                                     If  n  3,
-                                                      3
-                                             x   y   | x   y 3 
+                          Step 1.  Verification.  The statement is verified for  n   3 , 2 , 1  .
+                          Step 2.  Form the induction hypothesis.  We assume that the statement is true
+                              for  n   k .
+                          Step 3.  Proving.  Prove that the statement is true for   kn   1
+                          Step 4.  Form  the  conclusion.    Since  the  statement  is  true  for n  1,  and  it  is
+                                   proved to be true for  n    k   1 provided it is true for  n   k ,  thus it is
+                                   true for any natural number  n .
 
-                              Step 2. Hypothesis
+                       Examples of Proving Series by PMI
+                                                                                                        2
+                       1.  Prove  that  the  sum  of  the  first  n   positive  odd  integers  is  equal  to  n ,  or
+                                                   2
+                          1  3  5  ... 2n    1   n ).  This was discovered by Kolmogorov (1903 – 1989),
+                          a Russian Mathematician.
+                              Step 1. Verification
+
+                                      If  n  1,              If  n  2 ,              If  n  3,
+                                          2 n   1  n 2        1  2 n   1  n  2   1  3  2 n   1  n 2
+
+                                                    2
+                                                                                2
+                                          2   11    1         1  2   12     2     1 3  3   11     3 2
+                                                1  1                      4   4                      9   9
+
+                              Step 2. nduction Hypothesis
+                                     I
                                      If n   k ,
-
-                                             x   y  x |  k  y  k 
-
-
+                                                                     2
+                                            1  3  5  ... 2k    1   k
                               Step 3. Proving
-                                     Prove    that  x   y  x |  n  y n is   true   for   n   k   1,   that   is,
-                                       yx    | x k  1    y  k  1    .
+                                     Prove  that  1  3  5  ... 2n    1   n is  true  for  n   k   1,  that  is,
+                                                                            2
+                                     1 3  5 ... 2 k  1    k   1  .
+                                                                   2
                                      Proof:
-                                                           k
-                                             x k1    y k1    x   x   y k  y 
-                                                         x x   y k   xy   k  y k  y 
-                                                             k
+                                                      1 3  5  ... 2 k   1  k  2
 
-                                                             k
-                                                         x x   y k   xy   k  y k   y 
-                                                             k
-                                             x k1    y k1    x x   y k   y  k x    y
+                                            1  3  5  ... 2 k  1  2   k   1  k  2    2  1
+                                                                                   k
 
-                                     Since  x   y  x |  k  y  k , then  x   y  xx|  k    y  k  and  x   y  xy|     y ,
-                                     but  x k1    y k1    x   yx k    k    y k  x    y , therefore   yx    | x k  1   y  k  1 .
-
+                                            1  3  5  ... 2 k  1  2   k  1    k   1  2
+                                                      1  3  5  ... 2 k  1    k   1  2
                               Step 4. Conclusion
                                      Since the statement is true for  n     3 , 2 , 1  , and it is proved to be true
                                      for   kn   1 provided it is true for  n   k , thus the statement is true for
                                      any natural number n .
 
+                                                              n 3 n   1
+                       2.  Prove that 1 4  7  ...  3 n   2    .
+                                                                 2
+                              Step 1. Verification
+                                     If  n  1,
 
-               Self Check
-                       Prove by mathematical induction that each of the statements below is true  for
-               all positive values of n.
 
-                       1.  2  4  6  ... 2  n  n   1
-                                          n
 
-                             n
-                       2.  10  3 4 n  2  5 is divisible by 9.
-
-               Practice Your Skills
-                       Prove by mathematical induction that each of the statements below is true for
-               all positive values of n.
 
 
 
@@ -224,7 +227,7 @@ function MM_swapImage() { //v3.0
            <tr>
              <td width="22%" height="44"><a href="page95.html"><img src="images/previous.png" width="26" height="19" id="Image2" onmouseover="MM_swapImage('Image2','','images/previous2.png',1)" onmouseout="MM_swapImgRestore()" /></a></td>
              <td width="43%">
-             	&nbsp;&nbsp;&nbsp;<a href="page91.html">91</a>&nbsp;&nbsp;&nbsp;<a href="page92.html">92</a>&nbsp;&nbsp;&nbsp;<a href="page93.html">93</a>&nbsp;&nbsp;&nbsp;<a href="page94.html">94</a>&nbsp;&nbsp;&nbsp;<a href="page95.html">95</a>&nbsp;&nbsp;&nbsp;<a href="page96.html">96</a>&nbsp;&nbsp;&nbsp;<a href="page97.html">97</a>&nbsp;&nbsp;&nbsp;<a href="page98.html">98</a>&nbsp;&nbsp;&nbsp;<a href="page99.html">99</a>
+             	&nbsp;&nbsp;&nbsp;<a href="page91.html">91</a>&nbsp;&nbsp;&nbsp;<a href="page92.html">92</a>&nbsp;&nbsp;&nbsp;<a href="page93.html">93</a>&nbsp;&nbsp;&nbsp;<a href="page94.html">94</a>&nbsp;&nbsp;&nbsp;<a href="page95.html">95</a>&nbsp;&nbsp;&nbsp;<a href="page96.html">96</a>&nbsp;&nbsp;&nbsp;<a href="page97.html">97</a>&nbsp;&nbsp;&nbsp;<a href="page98.html">98</a>&nbsp;&nbsp;&nbsp;<a href="page99.html">99</a>&nbsp;&nbsp;&nbsp;<a href="page100.html">100</a>&nbsp;&nbsp;&nbsp;<a href="page101.html">101</a>
              </td>
              <td width="35%"><a href="page97.html"><img src="images/next.png" width="26" height="19" id="Image1" onmouseover="MM_swapImage('Image1','','images/next2.png',1)" onmouseout="MM_swapImgRestore()" /></a></td>
            </tr>

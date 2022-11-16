@@ -1,0 +1,1 @@
+﻿var textForPages = ["S.7.            Medical and dental supplies and                           materials are properly labeled","The campus clinic's medical supplies and records are properly labeled."];

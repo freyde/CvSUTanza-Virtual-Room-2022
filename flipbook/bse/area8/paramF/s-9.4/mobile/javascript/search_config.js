@@ -1,0 +1,1 @@
+﻿var textForPages = ["S.9.            The following basic dental equipment                           and apparatuses are available:                           S.9.4.   filling instruments;","The campus clinic has readily available medical                                          instruments."];

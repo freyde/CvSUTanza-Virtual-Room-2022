@@ -1,0 +1,1 @@
+﻿var textForPages = ["S.3.            The student center is well-lighted and                           ventilated.","The office is well lighted and ventilated to make it more                                  conducive for working."];
