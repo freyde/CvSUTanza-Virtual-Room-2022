@@ -1,1 +1,1 @@
-﻿var textForPages = [];
+﻿var textForPages = ["S.12.           Bulletin boards, display boards, waste                           disposal containers and other                           amenities are strategically located                          inside the buildings.","The bulletin board with its mission, vision, organizational                   structure and other school calendar and other                      organizational announcements located near                               the campus entrance and doors.","CSG Bulleting Board"];

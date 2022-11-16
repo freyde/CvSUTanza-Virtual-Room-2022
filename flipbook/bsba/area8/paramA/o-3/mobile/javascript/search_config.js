@@ -1,1 +1,1 @@
-﻿var textForPages = [];
+﻿var textForPages = ["O.3.            The campus is safe and well-                           maintained.","SECURITY GUARD DUTY SCHEDULE","A campus security force that enforces security                 protocol and health protocol to ensure safety                  inside the campus.","The campus is also implementing traffic                   and pathways and security of the students                  rules for the accessibility.","","","","","","","","","",""];
