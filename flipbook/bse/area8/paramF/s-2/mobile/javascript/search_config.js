@@ -1,0 +1,1 @@
+﻿var textForPages = ["S.2.            The institution has functional medical                           and dental section/area.","The campus clinic has functional medical and                                           dental section."];

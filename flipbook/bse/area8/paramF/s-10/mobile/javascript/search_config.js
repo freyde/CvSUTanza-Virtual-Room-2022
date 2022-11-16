@@ -1,0 +1,1 @@
+﻿var textForPages = ["S.10.           The medical/dental clinic has ample                           space, adequate lighting and                           ventilation.","The campus clinic has sufficient space, adequate             lighting and ventilation to support mobility of the                                      campus nurse."];

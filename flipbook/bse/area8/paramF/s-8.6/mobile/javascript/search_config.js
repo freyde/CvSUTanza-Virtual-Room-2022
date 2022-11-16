@@ -1,0 +1,1 @@
+﻿var textForPages = ["S.8.            The following basic medical equipment                           and medicines are all available:                           S.8.6.   thermometer (at least 10 pcs);","The campus clinic has 6 theremometers to attend                       to basic medical needs of the patients."];

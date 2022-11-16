@@ -1,1 +1,1 @@
-﻿var textForPages = ["I.6.  The budget for faculty development is                       wisely utilized.","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""];
+﻿var textForPages = ["I.6.  The budget for faculty development is                       wisely utilized.","","Financial Plan FY 2022","","","","","","","","","","","","","","Financial Plan FY 2021","","","","","","","","","","","","Financial Plan FY 2020","","","","","","","","","","",""];

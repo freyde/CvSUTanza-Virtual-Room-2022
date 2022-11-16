@@ -1,0 +1,1 @@
+﻿var textForPages = ["I.3.            Required documents/information and                           exhibits are updated, systematically                           packaged and readily available.","QUALITY ASSURANCE AND ACCREDITATION OFFICE","cabinets"];

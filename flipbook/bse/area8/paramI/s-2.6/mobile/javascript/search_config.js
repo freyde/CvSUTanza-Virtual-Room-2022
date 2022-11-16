@@ -1,0 +1,1 @@
+﻿var textForPages = ["S.2.            The AC has the following equipment                           and fixtures.                           S.2.6.   lounge.","The lounge area is available and accessible."];
