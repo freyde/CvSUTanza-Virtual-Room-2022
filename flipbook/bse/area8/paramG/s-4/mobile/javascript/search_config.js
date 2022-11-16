@@ -1,0 +1,1 @@
+﻿var textForPages = ["S.4.            A conference room is available for                           students use.","The Bagtas Magkaisa Dome is used as a multipurpose hall for events, training and                                  programs, and other CvSU Tanza Campus Activities."];

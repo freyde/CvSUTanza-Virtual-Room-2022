@@ -1,0 +1,1 @@
+﻿var textForPages = ["S.8.            There are officers for student leaders,                           the editorial staff of the student                           publication and the officers of other                          student organizations.","These area of offices for student's leaders, the editorial                staff of the student publication and organization."];

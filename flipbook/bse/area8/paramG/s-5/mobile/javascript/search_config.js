@@ -1,0 +1,1 @@
+﻿var textForPages = ["S.5.            There are facilities and equipment for                           table games, music appreciation, and                           TV or video viewing.","","","Audio-Visual Room"];
