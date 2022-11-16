@@ -1,1 +1,1 @@
-﻿var textForPages = [];
+﻿var textForPages = ["S.5.            The budget allocation for faculty                           development is adequate and wisely                           utilized.","","Financial Plan FY 2022","","","","","","","","","","","","Financial Plan FY 2021","","","","","","","","","","","","Financial Plan FY 2020","","","","","","","","","",""];

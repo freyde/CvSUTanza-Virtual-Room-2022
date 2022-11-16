@@ -1,0 +1,1 @@
+﻿var textForPages = ["I.7.            The following are properly maintained                           by trained staff/technicians:                           I.7.6.  others (please specify)"];

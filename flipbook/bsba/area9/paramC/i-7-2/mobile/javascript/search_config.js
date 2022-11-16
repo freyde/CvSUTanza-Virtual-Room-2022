@@ -1,0 +1,1 @@
+﻿var textForPages = ["I.7.            The following are properly maintained                           by trained staff/technicians:                           I.7.2.  computer laboratory","Computers in the computer laboratory are regularly maintained"];
