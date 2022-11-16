@@ -1,0 +1,1 @@
+﻿var textForPages = ["S.7.            Toilet fixtures for students with special                           needs and PWD’s are provided.","There is a toilet fixtures for students with special                                needs and PWD's provided."];

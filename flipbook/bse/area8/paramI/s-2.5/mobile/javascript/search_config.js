@@ -1,0 +1,1 @@
+﻿var textForPages = ["S.2.            The AC has the following equipment                           and fixtures.                           S.2.5.   toilets","The comfort rooms for AC office."];
