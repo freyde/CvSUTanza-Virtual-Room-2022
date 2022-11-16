@@ -1,0 +1,1 @@
+﻿var textForPages = ["S.8.            The following basic medical equipment                           and medicines are all available:                           S.8.10.  nebulizer.","There is a nebulizer available for medical purposes."];

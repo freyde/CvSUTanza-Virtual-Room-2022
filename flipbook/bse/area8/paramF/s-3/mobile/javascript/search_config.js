@@ -1,0 +1,1 @@
+﻿var textForPages = ["S.3.            Potable water is available and                           sufficient.","The campus clinic has enough and sufficient drinking                                   water supply for patients.",""];
