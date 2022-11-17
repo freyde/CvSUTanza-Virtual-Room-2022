@@ -1,0 +1,1 @@
+﻿var textForPages = ["I.4.            The following updated records are                           made available to concerned parties:                           I.4.5.  other records such as:                                          I.4.5.12. others (please specify)                                                            ______________","NOT APPLICABLE"];
