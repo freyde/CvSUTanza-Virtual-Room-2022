@@ -1,1 +1,1 @@
-﻿var textForPages = ["O.1.            The institution has a commendable                           Records Management System.","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","AUDIT FINDINGS REPORT PF THE RMO","","","","","","","","",""];
+﻿var textForPages = ["O.1.            The institution has a commendable                           Records Management System.","","","","","","","","","","","","","","","","","","","","","","","","","AUDIT FINDINGS REPORT OF THE RMO","","","","","","","","",""];
