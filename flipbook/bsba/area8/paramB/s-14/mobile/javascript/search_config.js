@@ -1,1 +1,1 @@
-﻿var textForPages = ["S.14.           The buildings are insured.","","","","","","","","","","","","","","","","","","",""];
+﻿var textForPages = ["S.14.  The building are insured.","","","","","","","","","",""];
