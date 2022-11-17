@@ -29,12 +29,15 @@ LoadingJS.prototype = {
 		this.image = $("<img src='" + this.loadingPicture + "'/>");
 		this.title = $("<p></p>");
 		
+		this.bg = $("<div style='transform:scale(1)'></div>");
+
 		if(this.loadingPicture) this.instance.append(this.image);
 
 		this.initAnimationHtml();
 
 		this.instance.append(this.title);
-		$("body").append(this.instance);
+		this.bg.append(this.instance);
+		$("body").append(this.bg);
 	},
 
 	initAnimationHtml : function(){
@@ -108,21 +111,34 @@ LoadingJS.prototype = {
 	},
 	
 	destroy : function(){
-		this.img3.attr("class", "");
-		$("body>style").html("");
-		this.instance.remove();
-		this.image.attr("src", "");
-		$("body").css({"background-color" : ""});
+		if(global.isIE8()||global.isIE9()){
+			this.bg.animate({"opacity":"0"},0.6,function(){
+				this.img3.attr("class", "");
+				$("body>style").html("");
+				this.bg.remove();
+				this.image.attr("src", "");
+				$("body").css({"background-color" : ""});
+			}.bind(this));
+		}else{
+			animateOnce(this.bg , {"opacity":"0"} , 0.6 ,function(){
+				this.img3.attr("class", "");
+				$("body>style").html("");
+				this.bg.remove();
+				this.image.attr("src", "");
+				$("body").css({"background-color" : ""});
+			}.bind(this));
+		}
+		
 	},
 	
 	initCss : function(){
-
 		$("html").css({
 			"margin" : 0,
 			"padding" : 0,
 			"width" : "100%",
 			"height" : "100%"
 		});
+
 		$("body").css({
 			"margin" : 0,
 			"padding" : 0,
@@ -131,6 +147,16 @@ LoadingJS.prototype = {
 			"position" : "fixed",
 			"background-color" : this.loadingBackground
 		});
+
+		this.bg.css({
+			"margin" : 0,
+			"padding" : 0,
+			"width" : "100%",
+			"height" : "100%",
+			"position" : "fixed",
+			"background-color" : this.loadingBackground
+		});
+
 		this.instance.css({
 			"width" : "100%",
 			"height" : "100%",
@@ -194,7 +220,6 @@ LoadingJS.prototype = {
 			"transform" : loadingBoxTran,
 		  	"padding" : 0
 		});
-
 	},
 	
 	onResize : function(){}
