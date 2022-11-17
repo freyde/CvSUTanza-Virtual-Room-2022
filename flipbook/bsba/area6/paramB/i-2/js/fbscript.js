@@ -135,7 +135,7 @@ var callback = function (e){
             
             
 var hasMobileVersion=true;
-var hasBasicHtmlVersion=false;
+var hasBasicHtmlVersion=true;
 
 var callback = function (e){ 
     //Only execute if SWFObject embed was successful
@@ -204,7 +204,7 @@ function detectAndGoVersion(loadType){
     swfobject.createCSS("#flashContent", "display:block;text-align:left;");
 	}	 
 }
-detectAndGoVersion();
+detectAndGoVersion(2);
 function isBelowIE8(){
 	var $ = window;
 	var sUserAgent = navigator.userAgent.toLowerCase();
