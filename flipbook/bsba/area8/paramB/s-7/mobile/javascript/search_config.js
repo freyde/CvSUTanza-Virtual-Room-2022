@@ -1,1 +1,1 @@
-﻿var textForPages = ["S.7.            The corridors, doorways, and alleys are                           well-constructed for better mobility.","The corridor,doorways and alleys are well constructed                                 for better mobility."];
+﻿var textForPages = ["S.7.            The corridors, doorways, and alleys are                           well-constructed for better mobility.","The corridor,doorways and alleys are well constructed                                 for better mobility.",""];
