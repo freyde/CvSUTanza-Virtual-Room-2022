@@ -1,1 +1,1 @@
-﻿var textForPages = ["I.7.            The FDP implements the following:                           I.7.4.  de-loading of faculty to finish                                          master’s/doctoral degrees;","Not Applicable"];
+﻿var textForPages = [];
