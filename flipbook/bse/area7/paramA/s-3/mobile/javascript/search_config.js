@@ -1,1 +1,1 @@
-﻿var textForPages = ["Administration              S.3.           There is a Library Board/Committee                            which sets library policies, rules and                             procedures and periodically reviews                            them.","","LIFTED FROM THE CvSU                           LIBRARY MANUAL OF                                         OPERATIONS","","","","","","","","","",""];
+﻿var textForPages = [];
